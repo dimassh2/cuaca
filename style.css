@@ -1,0 +1,257 @@
+/* --- BALATRO/POKER THEME --- */
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+:root {
+    --bg-color: #1a202c;
+    --card-bg: #2d3748;
+    --border-color: #4a5568;
+    --text-color: #e2e8f0;
+    --title-color: #ffffff;
+    --accent-red: #e53e3e;
+    --accent-blue: #4299e1;
+    --accent-purple: #9f7aea;
+    --accent-yellow: #ecc94b;
+}
+
+body {
+    font-family: 'Press Start 2P', sans-serif;
+    background-color: var(--bg-color);
+    background-image: radial-gradient(var(--border-color) 1px, transparent 1px);
+    background-size: 20px 20px;
+    color: var(--text-color);
+    padding: 1.5rem;
+}
+
+.poker-table {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+/* --- HEADER --- */
+.main-header { text-align: center; }
+.main-title {
+    font-size: 2.5rem;
+    color: var(--title-color);
+    text-shadow: 0 0 5px var(--accent-blue), 0 0 10px var(--accent-blue);
+}
+.subtitle { font-size: 0.9rem; color: var(--accent-blue); }
+
+/* --- KARTU KONDISI CUACA --- */
+.dealer-card {
+    background: var(--card-bg);
+    border: 2px solid var(--border-color);
+    border-radius: 12px;
+    padding: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.4);
+}
+.weather-icon { width: 80px; height: 80px; }
+.weather-icon svg { width: 100%; height: 100%; }
+#weather-condition-text {
+    font-size: 2rem;
+    color: var(--title-color);
+}
+
+/* --- TATA LETAK DESKTOP (NORMAL) --- */
+.hand-of-cards {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr); /* Default: 5 kartu berjejer */
+    gap: 1.5rem;
+}
+
+.playing-card {
+    background: var(--card-bg);
+    border: 2px solid var(--border-color);
+    border-radius: 10px;
+    aspect-ratio: 3 / 4;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    position: relative;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+    transition: transform 0.2s ease-out, box-shadow 0.2s ease-out;
+    padding: 1rem;
+    overflow: hidden;
+    cursor: pointer;
+}
+.playing-card::before, .playing-card::after {
+    content: attr(data-suit);
+    position: absolute;
+    font-size: 1.5rem;
+    opacity: 0.5;
+    z-index: 1;
+}
+.playing-card::before { top: 0.5rem; left: 0.75rem; }
+.playing-card::after { bottom: 0.5rem; right: 0.75rem; transform: rotate(180deg); }
+
+.playing-card:hover {
+    box-shadow: 0 8px 20px rgba(0,0,0,0.5);
+    transform: translateY(-5px);
+}
+
+.playing-card[data-suit="♥"] { color: var(--accent-blue); }
+.playing-card[data-suit="♦"] { color: var(--accent-red); }
+.playing-card[data-suit="♠"] { color: var(--accent-purple); }
+.playing-card[data-suit="♣"] { color: var(--text-color); }
+#center-card { color: var(--accent-yellow); padding: 0; }
+
+.card-label { font-size: 0.8rem; opacity: 0.8; }
+.card-value { font-size: 2rem; font-weight: 700; line-height: 1.1; margin: 0.5rem 0; }
+.card-unit { font-size: 0.9rem; }
+
+/* KARTU VIDEO */
+.rain-video-screen {
+    width: 100%; height: 100%;
+    object-fit: contain;
+    display: block; position: absolute; top: 0; left: 0;
+    border-radius: 8px;
+    background-color: #000;
+}
+.play-overlay {
+    position: absolute; top: 0; left: 0; right: 0; bottom: 0;
+    background-color: rgba(0,0,0,0.6);
+    display: flex; justify-content: center; align-items: center;
+    cursor: pointer; transition: opacity 0.3s; z-index: 2;
+}
+.play-overlay:hover { background-color: rgba(0,0,0,0.4); }
+.play-overlay svg { width: 50px; height: 50px; color: white; }
+
+/* KONTROL VIDEO */
+.video-controls {
+    position: absolute; bottom: 0; left: 0; right: 0;
+    background: linear-gradient(to top, rgba(0,0,0,0.8), transparent);
+    padding: 1.25rem 0.75rem 0.75rem 0.75rem;
+    display: flex; align-items: center; gap: 0.75rem; z-index: 3;
+    opacity: 0; transition: opacity 0.3s ease-in-out;
+}
+#center-card:hover .video-controls { opacity: 1; }
+.progress-bar {
+    -webkit-appearance: none; appearance: none;
+    width: 100%; height: 8px; background: rgba(255,255,255,0.3);
+    outline: none; border-radius: 4px; cursor: pointer;
+}
+.progress-bar::-webkit-slider-thumb {
+    -webkit-appearance: none; appearance: none;
+    width: 16px; height: 16px; background: var(--accent-blue); border-radius: 50%;
+}
+.progress-bar::-moz-range-thumb {
+    width: 16px; height: 16px; background: var(--accent-blue);
+    border-radius: 50%; border: none;
+}
+.control-button {
+    background: none; border: none; color: white; cursor: pointer; padding: 0;
+    width: 24px; height: 24px; opacity: 0.8; transition: opacity 0.2s, transform 0.2s;
+    flex-shrink: 0;
+}
+.control-button:hover { opacity: 1; transform: scale(1.1); }
+.control-button svg { width: 100%; height: 100%; }
+
+/* GRAFIK & FOOTER */
+.chart-section { display: grid; grid-template-columns: 1fr; gap: 2rem; }
+@media (min-width: 768px) { .chart-section { grid-template-columns: 1fr 1fr; } }
+.chart-container {
+    background: var(--card-bg); border: 2px solid var(--border-color);
+    border-radius: 12px; padding: 1.5rem; height: 320px; position: relative;
+}
+.chart-title { text-align: center; margin-bottom: 1rem; font-weight: 400; font-size: 1rem; }
+.action-footer { display: flex; justify-content: center; gap: 1.5rem; }
+.action-button {
+    font-family: 'Press Start 2P', sans-serif; background-color: var(--accent-blue);
+    color: var(--title-color); border: none; padding: 0.8rem 2rem; border-radius: 8px;
+    cursor: pointer; transition: all 0.2s ease-in-out; box-shadow: 0 2px 5px rgba(0,0,0,0.3);
+}
+.action-button:hover { background-color: #63b3ed; transform: translateY(-2px); }
+.action-button.small { padding: 0.6rem 1.2rem; font-size: 0.8rem; }
+
+/* MODAL */
+.modal-overlay {
+    position: fixed; top: 0; left: 0; width: 100%; height: 100%;
+    background-color: rgba(0, 0, 0, 0.85); display: flex;
+    justify-content: center; align-items: center; z-index: 1000;
+    padding: 1rem; box-sizing: border-box;
+}
+.modal-content {
+    background-color: var(--card-bg); border: 2px solid var(--border-color);
+    border-radius: 12px; width: 95%; max-width: 1024px; max-height: 90vh;
+    display: flex; flex-direction: column; box-sizing: border-box;
+    box-shadow: 0 5px 25px rgba(0,0,0,0.5);
+}
+.modal-header { padding: 1.5rem 1.5rem 1rem 1.5rem; border-bottom: 1px solid var(--border-color); }
+.modal-body { padding: 1.5rem; overflow-y: auto; display: flex; flex-direction: column; gap: 1.5rem; }
+.modal-footer { padding: 1.5rem; text-align: center; margin-top: auto; border-top: 1px solid var(--border-color);}
+.modal-title { font-family: 'Press Start 2P', sans-serif; text-align: center; margin-bottom: 1rem; font-size: 1.2rem; }
+.filter-controls { display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 1rem; }
+.date-picker {
+    background-color: var(--bg-color); border: 1px solid var(--border-color);
+    padding: 0.5rem; border-radius: 6px; color: var(--text-color);
+    font-family: 'Press Start 2P', sans-serif; font-size: 0.7rem;
+}
+.history-table-container { max-height: 300px; overflow-y: auto; }
+table { width: 100%; border-collapse: collapse; }
+th, td { padding: 12px; text-align: left; border-bottom: 1px solid var(--border-color); }
+thead { background-color: #3c4a60; position: sticky; top: 0; z-index: 10; }
+.chart-section-modal { display: grid; grid-template-columns: 1fr; gap: 2rem; }
+@media (min-width: 768px) { .chart-section-modal { grid-template-columns: 1fr 1fr; } }
+.gemini-content-area {
+    background-color: var(--bg-color); padding: 1.5rem; border-radius: 8px;
+    min-height: 150px; line-height: 1.7; overflow-y: auto;
+    font-family: sans-serif; font-size: 1rem;
+}
+.close-button { background-color: var(--accent-red); }
+.close-button:hover { background-color: #f56565; }
+.hidden { display: none !important; }
+
+/* ========================================================= */
+/* === DI SINI KEAJAIBANNYA! (TATA LETAK UNTUK PONSEL)     === */
+/* ========================================================= */
+
+@media (max-width: 768px) {
+    body { padding: 0.8rem; }
+    .main-title { font-size: 1.8rem; }
+    .subtitle { font-size: 0.8rem; }
+    .card-value { font-size: 1.5rem; }
+
+    /* Mengatur ulang layout .hand-of-cards */
+    .hand-of-cards {
+        grid-template-columns: 1fr 1fr; /* 2 kolom */
+        gap: 1rem;
+    }
+
+    /* Atur posisi kartu data menjadi grid 2x2 */
+    .playing-card:nth-child(1) { grid-row: 1; grid-column: 1; aspect-ratio: 1/1; } /* Suhu */
+    .playing-card:nth-child(2) { grid-row: 1; grid-column: 2; aspect-ratio: 1/1; } /* Lembap */
+    .playing-card:nth-child(4) { grid-row: 2; grid-column: 1; aspect-ratio: 1/1; } /* Tekanan */
+    .playing-card:nth-child(5) { grid-row: 2; grid-column: 2; aspect-ratio: 1/1; } /* MDPL */
+
+    /* Pindahkan kartu video ke bawah dan buat lebar penuh */
+    #center-card {
+        grid-row: 3; /* Pindah ke baris ke-3, di bawah grid 2x2 */
+        grid-column: 1 / span 2; /* Ambil lebar 2 kolom penuh */
+        aspect-ratio: 9 / 16; /* Atur rasio potrait */
+        margin-top: 1rem; /* Beri sedikit jarak dari atas */
+    }
+    
+   /* Di dalam @media (max-width: 768px) */
+	.chart-container {
+		height: 290px; /* Tinggi ditambah sedikit lagi menjadi 290px */
+		padding: 0.8rem;
+		padding-bottom: 25px; /* --- TRIK CSS: Menambahkan ruang kosong 25px di bawah grafik --- */
+		box-sizing: border-box; /* Memastikan padding tidak menambah tinggi total */
+	}
+    .action-footer { flex-direction: column; align-items: stretch; gap: 0.8rem; }
+
+    /* Aturan untuk modal di mobile */
+    .modal-content {
+        width: 100%; margin: 0; border-radius: 0; height: 100%; max-height: 100%;
+    }
+    .modal-header, .modal-body, .modal-footer { padding: 1rem; }
+    .filter-controls { flex-direction: column; align-items: stretch; }
+}
