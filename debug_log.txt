@@ -1,0 +1,2111 @@
+2025-07-01 21:25:57 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:25:57 - Koneksi database berhasil.
+2025-07-01 21:25:57 - Data mentah diterima: {"temperature":26.7,"humidity":77,"pressure":973.62,"altitude":335.26,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:25:57 - JSON berhasil di-decode.
+2025-07-01 21:25:57 - Data yang akan dimasukkan: T:26.7, H:77, P:973.62, A:335.26, R:0, C:BERAWAN
+2025-07-01 21:25:57 - Statement SQL berhasil disiapkan.
+2025-07-01 21:25:57 - Parameter berhasil di-bind.
+2025-07-01 21:25:57 - SUCCESS: Data berhasil disimpan dengan ID: 2461
+2025-07-01 21:25:57 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:26:07 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:26:07 - Koneksi database berhasil.
+2025-07-01 21:26:07 - Data mentah diterima: {"temperature":26.7,"humidity":77,"pressure":973.63,"altitude":335.23,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:26:07 - JSON berhasil di-decode.
+2025-07-01 21:26:07 - Data yang akan dimasukkan: T:26.7, H:77, P:973.63, A:335.23, R:0, C:BERAWAN
+2025-07-01 21:26:07 - Statement SQL berhasil disiapkan.
+2025-07-01 21:26:07 - Parameter berhasil di-bind.
+2025-07-01 21:26:07 - SUCCESS: Data berhasil disimpan dengan ID: 2462
+2025-07-01 21:26:07 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:26:17 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:26:17 - Koneksi database berhasil.
+2025-07-01 21:26:17 - Data mentah diterima: {"temperature":26.7,"humidity":77,"pressure":973.63,"altitude":335.25,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:26:17 - JSON berhasil di-decode.
+2025-07-01 21:26:17 - Data yang akan dimasukkan: T:26.7, H:77, P:973.63, A:335.25, R:0, C:BERAWAN
+2025-07-01 21:26:17 - Statement SQL berhasil disiapkan.
+2025-07-01 21:26:17 - Parameter berhasil di-bind.
+2025-07-01 21:26:17 - SUCCESS: Data berhasil disimpan dengan ID: 2463
+2025-07-01 21:26:17 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:26:27 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:26:27 - Koneksi database berhasil.
+2025-07-01 21:26:27 - Data mentah diterima: {"temperature":26.7,"humidity":77,"pressure":973.63,"altitude":335.24,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:26:27 - JSON berhasil di-decode.
+2025-07-01 21:26:27 - Data yang akan dimasukkan: T:26.7, H:77, P:973.63, A:335.24, R:0, C:BERAWAN
+2025-07-01 21:26:27 - Statement SQL berhasil disiapkan.
+2025-07-01 21:26:27 - Parameter berhasil di-bind.
+2025-07-01 21:26:27 - SUCCESS: Data berhasil disimpan dengan ID: 2464
+2025-07-01 21:26:27 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:26:37 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:26:37 - Koneksi database berhasil.
+2025-07-01 21:26:37 - Data mentah diterima: {"temperature":26.7,"humidity":77,"pressure":973.64,"altitude":335.16,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:26:37 - JSON berhasil di-decode.
+2025-07-01 21:26:37 - Data yang akan dimasukkan: T:26.7, H:77, P:973.64, A:335.16, R:0, C:BERAWAN
+2025-07-01 21:26:37 - Statement SQL berhasil disiapkan.
+2025-07-01 21:26:37 - Parameter berhasil di-bind.
+2025-07-01 21:26:37 - SUCCESS: Data berhasil disimpan dengan ID: 2465
+2025-07-01 21:26:37 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:26:47 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:26:47 - Koneksi database berhasil.
+2025-07-01 21:26:47 - Data mentah diterima: {"temperature":26.7,"humidity":77,"pressure":973.63,"altitude":335.18,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:26:47 - JSON berhasil di-decode.
+2025-07-01 21:26:47 - Data yang akan dimasukkan: T:26.7, H:77, P:973.63, A:335.18, R:0, C:BERAWAN
+2025-07-01 21:26:47 - Statement SQL berhasil disiapkan.
+2025-07-01 21:26:47 - Parameter berhasil di-bind.
+2025-07-01 21:26:47 - SUCCESS: Data berhasil disimpan dengan ID: 2466
+2025-07-01 21:26:47 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:26:57 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:26:57 - Koneksi database berhasil.
+2025-07-01 21:26:57 - Data mentah diterima: {"temperature":26.7,"humidity":77,"pressure":973.64,"altitude":335.17,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:26:57 - JSON berhasil di-decode.
+2025-07-01 21:26:57 - Data yang akan dimasukkan: T:26.7, H:77, P:973.64, A:335.17, R:0, C:BERAWAN
+2025-07-01 21:26:57 - Statement SQL berhasil disiapkan.
+2025-07-01 21:26:57 - Parameter berhasil di-bind.
+2025-07-01 21:26:57 - SUCCESS: Data berhasil disimpan dengan ID: 2467
+2025-07-01 21:26:57 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:27:07 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:27:07 - Koneksi database berhasil.
+2025-07-01 21:27:07 - Data mentah diterima: {"temperature":26.7,"humidity":77,"pressure":973.64,"altitude":335.09,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:27:07 - JSON berhasil di-decode.
+2025-07-01 21:27:07 - Data yang akan dimasukkan: T:26.7, H:77, P:973.64, A:335.09, R:0, C:BERAWAN
+2025-07-01 21:27:07 - Statement SQL berhasil disiapkan.
+2025-07-01 21:27:07 - Parameter berhasil di-bind.
+2025-07-01 21:27:07 - SUCCESS: Data berhasil disimpan dengan ID: 2468
+2025-07-01 21:27:07 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:27:17 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:27:17 - Koneksi database berhasil.
+2025-07-01 21:27:17 - Data mentah diterima: {"temperature":26.7,"humidity":77,"pressure":973.66,"altitude":334.99,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:27:17 - JSON berhasil di-decode.
+2025-07-01 21:27:17 - Data yang akan dimasukkan: T:26.7, H:77, P:973.66, A:334.99, R:0, C:BERAWAN
+2025-07-01 21:27:17 - Statement SQL berhasil disiapkan.
+2025-07-01 21:27:17 - Parameter berhasil di-bind.
+2025-07-01 21:27:17 - SUCCESS: Data berhasil disimpan dengan ID: 2469
+2025-07-01 21:27:17 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:27:27 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:27:27 - Koneksi database berhasil.
+2025-07-01 21:27:27 - Data mentah diterima: {"temperature":26.7,"humidity":77,"pressure":973.66,"altitude":334.95,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:27:27 - JSON berhasil di-decode.
+2025-07-01 21:27:27 - Data yang akan dimasukkan: T:26.7, H:77, P:973.66, A:334.95, R:0, C:BERAWAN
+2025-07-01 21:27:27 - Statement SQL berhasil disiapkan.
+2025-07-01 21:27:27 - Parameter berhasil di-bind.
+2025-07-01 21:27:27 - SUCCESS: Data berhasil disimpan dengan ID: 2470
+2025-07-01 21:27:27 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:27:37 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:27:37 - Koneksi database berhasil.
+2025-07-01 21:27:37 - Data mentah diterima: {"temperature":26.7,"humidity":77,"pressure":973.65,"altitude":335.02,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:27:37 - JSON berhasil di-decode.
+2025-07-01 21:27:37 - Data yang akan dimasukkan: T:26.7, H:77, P:973.65, A:335.02, R:0, C:BERAWAN
+2025-07-01 21:27:37 - Statement SQL berhasil disiapkan.
+2025-07-01 21:27:37 - Parameter berhasil di-bind.
+2025-07-01 21:27:37 - SUCCESS: Data berhasil disimpan dengan ID: 2471
+2025-07-01 21:27:37 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:27:47 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:27:47 - Koneksi database berhasil.
+2025-07-01 21:27:47 - Data mentah diterima: {"temperature":26.7,"humidity":77,"pressure":973.66,"altitude":334.91,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:27:47 - JSON berhasil di-decode.
+2025-07-01 21:27:47 - Data yang akan dimasukkan: T:26.7, H:77, P:973.66, A:334.91, R:0, C:BERAWAN
+2025-07-01 21:27:47 - Statement SQL berhasil disiapkan.
+2025-07-01 21:27:47 - Parameter berhasil di-bind.
+2025-07-01 21:27:47 - SUCCESS: Data berhasil disimpan dengan ID: 2472
+2025-07-01 21:27:47 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:27:57 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:27:57 - Koneksi database berhasil.
+2025-07-01 21:27:57 - Data mentah diterima: {"temperature":26.7,"humidity":77,"pressure":973.67,"altitude":334.87,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:27:57 - JSON berhasil di-decode.
+2025-07-01 21:27:57 - Data yang akan dimasukkan: T:26.7, H:77, P:973.67, A:334.87, R:0, C:BERAWAN
+2025-07-01 21:27:57 - Statement SQL berhasil disiapkan.
+2025-07-01 21:27:57 - Parameter berhasil di-bind.
+2025-07-01 21:27:57 - SUCCESS: Data berhasil disimpan dengan ID: 2473
+2025-07-01 21:27:57 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:28:07 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:28:07 - Koneksi database berhasil.
+2025-07-01 21:28:07 - Data mentah diterima: {"temperature":26.7,"humidity":77,"pressure":973.67,"altitude":334.87,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:28:07 - JSON berhasil di-decode.
+2025-07-01 21:28:07 - Data yang akan dimasukkan: T:26.7, H:77, P:973.67, A:334.87, R:0, C:BERAWAN
+2025-07-01 21:28:07 - Statement SQL berhasil disiapkan.
+2025-07-01 21:28:07 - Parameter berhasil di-bind.
+2025-07-01 21:28:07 - SUCCESS: Data berhasil disimpan dengan ID: 2474
+2025-07-01 21:28:07 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:28:17 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:28:17 - Koneksi database berhasil.
+2025-07-01 21:28:17 - Data mentah diterima: {"temperature":26.7,"humidity":77,"pressure":973.67,"altitude":334.85,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:28:17 - JSON berhasil di-decode.
+2025-07-01 21:28:17 - Data yang akan dimasukkan: T:26.7, H:77, P:973.67, A:334.85, R:0, C:BERAWAN
+2025-07-01 21:28:17 - Statement SQL berhasil disiapkan.
+2025-07-01 21:28:17 - Parameter berhasil di-bind.
+2025-07-01 21:28:17 - SUCCESS: Data berhasil disimpan dengan ID: 2475
+2025-07-01 21:28:17 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:28:27 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:28:27 - Koneksi database berhasil.
+2025-07-01 21:28:27 - Data mentah diterima: {"temperature":26.7,"humidity":77,"pressure":973.67,"altitude":334.84,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:28:27 - JSON berhasil di-decode.
+2025-07-01 21:28:27 - Data yang akan dimasukkan: T:26.7, H:77, P:973.67, A:334.84, R:0, C:BERAWAN
+2025-07-01 21:28:27 - Statement SQL berhasil disiapkan.
+2025-07-01 21:28:27 - Parameter berhasil di-bind.
+2025-07-01 21:28:27 - SUCCESS: Data berhasil disimpan dengan ID: 2476
+2025-07-01 21:28:27 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:28:37 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:28:37 - Koneksi database berhasil.
+2025-07-01 21:28:37 - Data mentah diterima: {"temperature":26.7,"humidity":77,"pressure":973.67,"altitude":334.85,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:28:37 - JSON berhasil di-decode.
+2025-07-01 21:28:37 - Data yang akan dimasukkan: T:26.7, H:77, P:973.67, A:334.85, R:0, C:BERAWAN
+2025-07-01 21:28:37 - Statement SQL berhasil disiapkan.
+2025-07-01 21:28:37 - Parameter berhasil di-bind.
+2025-07-01 21:28:37 - SUCCESS: Data berhasil disimpan dengan ID: 2477
+2025-07-01 21:28:37 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:28:47 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:28:47 - Koneksi database berhasil.
+2025-07-01 21:28:47 - Data mentah diterima: {"temperature":26.7,"humidity":77,"pressure":973.67,"altitude":334.83,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:28:47 - JSON berhasil di-decode.
+2025-07-01 21:28:47 - Data yang akan dimasukkan: T:26.7, H:77, P:973.67, A:334.83, R:0, C:BERAWAN
+2025-07-01 21:28:47 - Statement SQL berhasil disiapkan.
+2025-07-01 21:28:47 - Parameter berhasil di-bind.
+2025-07-01 21:28:47 - SUCCESS: Data berhasil disimpan dengan ID: 2478
+2025-07-01 21:28:47 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:28:57 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:28:57 - Koneksi database berhasil.
+2025-07-01 21:28:57 - Data mentah diterima: {"temperature":26.7,"humidity":77,"pressure":973.68,"altitude":334.76,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:28:57 - JSON berhasil di-decode.
+2025-07-01 21:28:57 - Data yang akan dimasukkan: T:26.7, H:77, P:973.68, A:334.76, R:0, C:BERAWAN
+2025-07-01 21:28:57 - Statement SQL berhasil disiapkan.
+2025-07-01 21:28:57 - Parameter berhasil di-bind.
+2025-07-01 21:28:57 - SUCCESS: Data berhasil disimpan dengan ID: 2479
+2025-07-01 21:28:57 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:29:07 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:29:07 - Koneksi database berhasil.
+2025-07-01 21:29:07 - Data mentah diterima: {"temperature":26.7,"humidity":77,"pressure":973.69,"altitude":334.7,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:29:07 - JSON berhasil di-decode.
+2025-07-01 21:29:07 - Data yang akan dimasukkan: T:26.7, H:77, P:973.69, A:334.7, R:0, C:BERAWAN
+2025-07-01 21:29:07 - Statement SQL berhasil disiapkan.
+2025-07-01 21:29:07 - Parameter berhasil di-bind.
+2025-07-01 21:29:07 - SUCCESS: Data berhasil disimpan dengan ID: 2480
+2025-07-01 21:29:07 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:29:17 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:29:17 - Koneksi database berhasil.
+2025-07-01 21:29:17 - Data mentah diterima: {"temperature":26.7,"humidity":77,"pressure":973.69,"altitude":334.71,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:29:17 - JSON berhasil di-decode.
+2025-07-01 21:29:17 - Data yang akan dimasukkan: T:26.7, H:77, P:973.69, A:334.71, R:0, C:BERAWAN
+2025-07-01 21:29:17 - Statement SQL berhasil disiapkan.
+2025-07-01 21:29:17 - Parameter berhasil di-bind.
+2025-07-01 21:29:17 - SUCCESS: Data berhasil disimpan dengan ID: 2481
+2025-07-01 21:29:17 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:29:27 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:29:27 - Koneksi database berhasil.
+2025-07-01 21:29:27 - Data mentah diterima: {"temperature":26.7,"humidity":77,"pressure":973.69,"altitude":334.66,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:29:27 - JSON berhasil di-decode.
+2025-07-01 21:29:27 - Data yang akan dimasukkan: T:26.7, H:77, P:973.69, A:334.66, R:0, C:BERAWAN
+2025-07-01 21:29:27 - Statement SQL berhasil disiapkan.
+2025-07-01 21:29:27 - Parameter berhasil di-bind.
+2025-07-01 21:29:27 - SUCCESS: Data berhasil disimpan dengan ID: 2482
+2025-07-01 21:29:27 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:29:37 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:29:37 - Koneksi database berhasil.
+2025-07-01 21:29:37 - Data mentah diterima: {"temperature":26.7,"humidity":77,"pressure":973.69,"altitude":334.71,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:29:37 - JSON berhasil di-decode.
+2025-07-01 21:29:37 - Data yang akan dimasukkan: T:26.7, H:77, P:973.69, A:334.71, R:0, C:BERAWAN
+2025-07-01 21:29:37 - Statement SQL berhasil disiapkan.
+2025-07-01 21:29:37 - Parameter berhasil di-bind.
+2025-07-01 21:29:37 - SUCCESS: Data berhasil disimpan dengan ID: 2483
+2025-07-01 21:29:37 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:29:47 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:29:47 - Koneksi database berhasil.
+2025-07-01 21:29:47 - Data mentah diterima: {"temperature":26.7,"humidity":77,"pressure":973.69,"altitude":334.67,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:29:47 - JSON berhasil di-decode.
+2025-07-01 21:29:47 - Data yang akan dimasukkan: T:26.7, H:77, P:973.69, A:334.67, R:0, C:BERAWAN
+2025-07-01 21:29:47 - Statement SQL berhasil disiapkan.
+2025-07-01 21:29:47 - Parameter berhasil di-bind.
+2025-07-01 21:29:47 - SUCCESS: Data berhasil disimpan dengan ID: 2484
+2025-07-01 21:29:47 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:29:57 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:29:57 - Koneksi database berhasil.
+2025-07-01 21:29:57 - Data mentah diterima: {"temperature":26.7,"humidity":77,"pressure":973.7,"altitude":334.62,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:29:57 - JSON berhasil di-decode.
+2025-07-01 21:29:57 - Data yang akan dimasukkan: T:26.7, H:77, P:973.7, A:334.62, R:0, C:BERAWAN
+2025-07-01 21:29:57 - Statement SQL berhasil disiapkan.
+2025-07-01 21:29:57 - Parameter berhasil di-bind.
+2025-07-01 21:29:57 - SUCCESS: Data berhasil disimpan dengan ID: 2485
+2025-07-01 21:29:57 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:30:07 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:30:07 - Koneksi database berhasil.
+2025-07-01 21:30:07 - Data mentah diterima: {"temperature":26.7,"humidity":77,"pressure":973.7,"altitude":334.65,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:30:07 - JSON berhasil di-decode.
+2025-07-01 21:30:07 - Data yang akan dimasukkan: T:26.7, H:77, P:973.7, A:334.65, R:0, C:BERAWAN
+2025-07-01 21:30:07 - Statement SQL berhasil disiapkan.
+2025-07-01 21:30:07 - Parameter berhasil di-bind.
+2025-07-01 21:30:07 - SUCCESS: Data berhasil disimpan dengan ID: 2486
+2025-07-01 21:30:07 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:30:17 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:30:17 - Koneksi database berhasil.
+2025-07-01 21:30:17 - Data mentah diterima: {"temperature":26.7,"humidity":77,"pressure":973.7,"altitude":334.65,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:30:17 - JSON berhasil di-decode.
+2025-07-01 21:30:17 - Data yang akan dimasukkan: T:26.7, H:77, P:973.7, A:334.65, R:0, C:BERAWAN
+2025-07-01 21:30:17 - Statement SQL berhasil disiapkan.
+2025-07-01 21:30:17 - Parameter berhasil di-bind.
+2025-07-01 21:30:17 - SUCCESS: Data berhasil disimpan dengan ID: 2487
+2025-07-01 21:30:17 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:30:37 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:30:37 - Koneksi database berhasil.
+2025-07-01 21:30:37 - Data mentah diterima: {"temperature":26.7,"humidity":77,"pressure":973.69,"altitude":334.69,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:30:37 - JSON berhasil di-decode.
+2025-07-01 21:30:37 - Data yang akan dimasukkan: T:26.7, H:77, P:973.69, A:334.69, R:0, C:BERAWAN
+2025-07-01 21:30:37 - Statement SQL berhasil disiapkan.
+2025-07-01 21:30:37 - Parameter berhasil di-bind.
+2025-07-01 21:30:37 - SUCCESS: Data berhasil disimpan dengan ID: 2488
+2025-07-01 21:30:37 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:30:47 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:30:47 - Koneksi database berhasil.
+2025-07-01 21:30:47 - Data mentah diterima: {"temperature":26.7,"humidity":76,"pressure":973.69,"altitude":334.67,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:30:47 - JSON berhasil di-decode.
+2025-07-01 21:30:47 - Data yang akan dimasukkan: T:26.7, H:76, P:973.69, A:334.67, R:0, C:BERAWAN
+2025-07-01 21:30:47 - Statement SQL berhasil disiapkan.
+2025-07-01 21:30:47 - Parameter berhasil di-bind.
+2025-07-01 21:30:47 - SUCCESS: Data berhasil disimpan dengan ID: 2489
+2025-07-01 21:30:47 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:30:58 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:30:58 - Koneksi database berhasil.
+2025-07-01 21:30:58 - Data mentah diterima: {"temperature":26.7,"humidity":76,"pressure":973.7,"altitude":334.62,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:30:58 - JSON berhasil di-decode.
+2025-07-01 21:30:58 - Data yang akan dimasukkan: T:26.7, H:76, P:973.7, A:334.62, R:0, C:BERAWAN
+2025-07-01 21:30:58 - Statement SQL berhasil disiapkan.
+2025-07-01 21:30:58 - Parameter berhasil di-bind.
+2025-07-01 21:30:58 - SUCCESS: Data berhasil disimpan dengan ID: 2490
+2025-07-01 21:30:58 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:31:07 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:31:07 - Koneksi database berhasil.
+2025-07-01 21:31:07 - Data mentah diterima: {"temperature":26.7,"humidity":77,"pressure":973.69,"altitude":334.71,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:31:07 - JSON berhasil di-decode.
+2025-07-01 21:31:07 - Data yang akan dimasukkan: T:26.7, H:77, P:973.69, A:334.71, R:0, C:BERAWAN
+2025-07-01 21:31:07 - Statement SQL berhasil disiapkan.
+2025-07-01 21:31:07 - Parameter berhasil di-bind.
+2025-07-01 21:31:07 - SUCCESS: Data berhasil disimpan dengan ID: 2491
+2025-07-01 21:31:07 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:31:17 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:31:17 - Koneksi database berhasil.
+2025-07-01 21:31:17 - Data mentah diterima: {"temperature":26.7,"humidity":77,"pressure":973.69,"altitude":334.69,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:31:17 - JSON berhasil di-decode.
+2025-07-01 21:31:17 - Data yang akan dimasukkan: T:26.7, H:77, P:973.69, A:334.69, R:0, C:BERAWAN
+2025-07-01 21:31:17 - Statement SQL berhasil disiapkan.
+2025-07-01 21:31:17 - Parameter berhasil di-bind.
+2025-07-01 21:31:17 - SUCCESS: Data berhasil disimpan dengan ID: 2492
+2025-07-01 21:31:17 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:31:27 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:31:27 - Koneksi database berhasil.
+2025-07-01 21:31:27 - Data mentah diterima: {"temperature":26.7,"humidity":77,"pressure":973.71,"altitude":334.56,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:31:27 - JSON berhasil di-decode.
+2025-07-01 21:31:27 - Data yang akan dimasukkan: T:26.7, H:77, P:973.71, A:334.56, R:0, C:BERAWAN
+2025-07-01 21:31:27 - Statement SQL berhasil disiapkan.
+2025-07-01 21:31:27 - Parameter berhasil di-bind.
+2025-07-01 21:31:27 - SUCCESS: Data berhasil disimpan dengan ID: 2493
+2025-07-01 21:31:27 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:31:37 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:31:37 - Koneksi database berhasil.
+2025-07-01 21:31:37 - Data mentah diterima: {"temperature":26.7,"humidity":77,"pressure":973.7,"altitude":334.59,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:31:37 - JSON berhasil di-decode.
+2025-07-01 21:31:37 - Data yang akan dimasukkan: T:26.7, H:77, P:973.7, A:334.59, R:0, C:BERAWAN
+2025-07-01 21:31:37 - Statement SQL berhasil disiapkan.
+2025-07-01 21:31:37 - Parameter berhasil di-bind.
+2025-07-01 21:31:37 - SUCCESS: Data berhasil disimpan dengan ID: 2494
+2025-07-01 21:31:37 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:31:48 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:31:48 - Koneksi database berhasil.
+2025-07-01 21:31:48 - Data mentah diterima: {"temperature":26.7,"humidity":77,"pressure":973.69,"altitude":334.7,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:31:48 - JSON berhasil di-decode.
+2025-07-01 21:31:48 - Data yang akan dimasukkan: T:26.7, H:77, P:973.69, A:334.7, R:0, C:BERAWAN
+2025-07-01 21:31:48 - Statement SQL berhasil disiapkan.
+2025-07-01 21:31:48 - Parameter berhasil di-bind.
+2025-07-01 21:31:48 - SUCCESS: Data berhasil disimpan dengan ID: 2495
+2025-07-01 21:31:48 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:32:00 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:32:00 - Koneksi database berhasil.
+2025-07-01 21:32:00 - Data mentah diterima: {"temperature":26.7,"humidity":77,"pressure":973.69,"altitude":334.67,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:32:00 - JSON berhasil di-decode.
+2025-07-01 21:32:00 - Data yang akan dimasukkan: T:26.7, H:77, P:973.69, A:334.67, R:0, C:BERAWAN
+2025-07-01 21:32:00 - Statement SQL berhasil disiapkan.
+2025-07-01 21:32:00 - Parameter berhasil di-bind.
+2025-07-01 21:32:00 - SUCCESS: Data berhasil disimpan dengan ID: 2496
+2025-07-01 21:32:00 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:32:07 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:32:07 - Koneksi database berhasil.
+2025-07-01 21:32:07 - Data mentah diterima: {"temperature":26.7,"humidity":77,"pressure":973.69,"altitude":334.68,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:32:07 - JSON berhasil di-decode.
+2025-07-01 21:32:07 - Data yang akan dimasukkan: T:26.7, H:77, P:973.69, A:334.68, R:0, C:BERAWAN
+2025-07-01 21:32:07 - Statement SQL berhasil disiapkan.
+2025-07-01 21:32:07 - Parameter berhasil di-bind.
+2025-07-01 21:32:07 - SUCCESS: Data berhasil disimpan dengan ID: 2497
+2025-07-01 21:32:07 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:32:17 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:32:17 - Koneksi database berhasil.
+2025-07-01 21:32:17 - Data mentah diterima: {"temperature":26.7,"humidity":77,"pressure":973.7,"altitude":334.64,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:32:17 - JSON berhasil di-decode.
+2025-07-01 21:32:17 - Data yang akan dimasukkan: T:26.7, H:77, P:973.7, A:334.64, R:0, C:BERAWAN
+2025-07-01 21:32:17 - Statement SQL berhasil disiapkan.
+2025-07-01 21:32:17 - Parameter berhasil di-bind.
+2025-07-01 21:32:17 - SUCCESS: Data berhasil disimpan dengan ID: 2498
+2025-07-01 21:32:17 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:32:27 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:32:27 - Koneksi database berhasil.
+2025-07-01 21:32:27 - Data mentah diterima: {"temperature":26.7,"humidity":77,"pressure":973.7,"altitude":334.57,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:32:27 - JSON berhasil di-decode.
+2025-07-01 21:32:27 - Data yang akan dimasukkan: T:26.7, H:77, P:973.7, A:334.57, R:0, C:BERAWAN
+2025-07-01 21:32:27 - Statement SQL berhasil disiapkan.
+2025-07-01 21:32:27 - Parameter berhasil di-bind.
+2025-07-01 21:32:27 - SUCCESS: Data berhasil disimpan dengan ID: 2499
+2025-07-01 21:32:27 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:32:37 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:32:37 - Koneksi database berhasil.
+2025-07-01 21:32:37 - Data mentah diterima: {"temperature":26.7,"humidity":77,"pressure":973.71,"altitude":334.55,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:32:37 - JSON berhasil di-decode.
+2025-07-01 21:32:37 - Data yang akan dimasukkan: T:26.7, H:77, P:973.71, A:334.55, R:0, C:BERAWAN
+2025-07-01 21:32:37 - Statement SQL berhasil disiapkan.
+2025-07-01 21:32:37 - Parameter berhasil di-bind.
+2025-07-01 21:32:37 - SUCCESS: Data berhasil disimpan dengan ID: 2500
+2025-07-01 21:32:37 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:32:47 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:32:47 - Koneksi database berhasil.
+2025-07-01 21:32:47 - Data mentah diterima: {"temperature":26.7,"humidity":77,"pressure":973.7,"altitude":334.58,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:32:47 - JSON berhasil di-decode.
+2025-07-01 21:32:47 - Data yang akan dimasukkan: T:26.7, H:77, P:973.7, A:334.58, R:0, C:BERAWAN
+2025-07-01 21:32:47 - Statement SQL berhasil disiapkan.
+2025-07-01 21:32:47 - Parameter berhasil di-bind.
+2025-07-01 21:32:47 - SUCCESS: Data berhasil disimpan dengan ID: 2501
+2025-07-01 21:32:47 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:33:15 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:33:15 - Koneksi database berhasil.
+2025-07-01 21:33:15 - Data mentah diterima: {"temperature":26.7,"humidity":77,"pressure":973.7,"altitude":334.59,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:33:15 - JSON berhasil di-decode.
+2025-07-01 21:33:15 - Data yang akan dimasukkan: T:26.7, H:77, P:973.7, A:334.59, R:0, C:BERAWAN
+2025-07-01 21:33:15 - Statement SQL berhasil disiapkan.
+2025-07-01 21:33:15 - Parameter berhasil di-bind.
+2025-07-01 21:33:15 - SUCCESS: Data berhasil disimpan dengan ID: 2502
+2025-07-01 21:33:15 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:33:21 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:33:21 - Koneksi database berhasil.
+2025-07-01 21:33:21 - Data mentah diterima: {"temperature":26.7,"humidity":76,"pressure":973.7,"altitude":334.58,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:33:21 - JSON berhasil di-decode.
+2025-07-01 21:33:21 - Data yang akan dimasukkan: T:26.7, H:76, P:973.7, A:334.58, R:0, C:BERAWAN
+2025-07-01 21:33:21 - Statement SQL berhasil disiapkan.
+2025-07-01 21:33:21 - Parameter berhasil di-bind.
+2025-07-01 21:33:21 - SUCCESS: Data berhasil disimpan dengan ID: 2503
+2025-07-01 21:33:21 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:34:01 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:34:01 - Koneksi database berhasil.
+2025-07-01 21:34:01 - Data mentah diterima: {"temperature":26.7,"humidity":76,"pressure":973.7,"altitude":334.57,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:34:01 - JSON berhasil di-decode.
+2025-07-01 21:34:01 - Data yang akan dimasukkan: T:26.7, H:76, P:973.7, A:334.57, R:0, C:BERAWAN
+2025-07-01 21:34:01 - Statement SQL berhasil disiapkan.
+2025-07-01 21:34:01 - Parameter berhasil di-bind.
+2025-07-01 21:34:01 - SUCCESS: Data berhasil disimpan dengan ID: 2504
+2025-07-01 21:34:01 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:34:09 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:34:09 - Koneksi database berhasil.
+2025-07-01 21:34:09 - Data mentah diterima: {"temperature":26.7,"humidity":76,"pressure":973.7,"altitude":334.59,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:34:09 - JSON berhasil di-decode.
+2025-07-01 21:34:09 - Data yang akan dimasukkan: T:26.7, H:76, P:973.7, A:334.59, R:0, C:BERAWAN
+2025-07-01 21:34:09 - Statement SQL berhasil disiapkan.
+2025-07-01 21:34:09 - Parameter berhasil di-bind.
+2025-07-01 21:34:09 - SUCCESS: Data berhasil disimpan dengan ID: 2505
+2025-07-01 21:34:09 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:36:38 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:36:38 - Koneksi database berhasil.
+2025-07-01 21:36:38 - Data mentah diterima: {"temperature":26.7,"humidity":77,"pressure":973.66,"altitude":334.98,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:36:38 - JSON berhasil di-decode.
+2025-07-01 21:36:38 - Data yang akan dimasukkan: T:26.7, H:77, P:973.66, A:334.98, R:0, C:BERAWAN
+2025-07-01 21:36:38 - Statement SQL berhasil disiapkan.
+2025-07-01 21:36:38 - Parameter berhasil di-bind.
+2025-07-01 21:36:38 - SUCCESS: Data berhasil disimpan dengan ID: 1
+2025-07-01 21:36:38 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:36:49 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:36:49 - Koneksi database berhasil.
+2025-07-01 21:36:49 - Data mentah diterima: {"temperature":26.7,"humidity":77,"pressure":973.68,"altitude":334.74,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:36:49 - JSON berhasil di-decode.
+2025-07-01 21:36:49 - Data yang akan dimasukkan: T:26.7, H:77, P:973.68, A:334.74, R:0, C:BERAWAN
+2025-07-01 21:36:49 - Statement SQL berhasil disiapkan.
+2025-07-01 21:36:49 - Parameter berhasil di-bind.
+2025-07-01 21:36:49 - SUCCESS: Data berhasil disimpan dengan ID: 2
+2025-07-01 21:36:49 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:36:59 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:36:59 - Koneksi database berhasil.
+2025-07-01 21:36:59 - Data mentah diterima: {"temperature":26.7,"humidity":77,"pressure":973.69,"altitude":334.66,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:36:59 - JSON berhasil di-decode.
+2025-07-01 21:36:59 - Data yang akan dimasukkan: T:26.7, H:77, P:973.69, A:334.66, R:0, C:BERAWAN
+2025-07-01 21:36:59 - Statement SQL berhasil disiapkan.
+2025-07-01 21:36:59 - Parameter berhasil di-bind.
+2025-07-01 21:36:59 - SUCCESS: Data berhasil disimpan dengan ID: 3
+2025-07-01 21:36:59 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:37:08 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:37:08 - Koneksi database berhasil.
+2025-07-01 21:37:08 - Data mentah diterima: {"temperature":26.7,"humidity":77,"pressure":973.71,"altitude":334.52,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:37:08 - JSON berhasil di-decode.
+2025-07-01 21:37:08 - Data yang akan dimasukkan: T:26.7, H:77, P:973.71, A:334.52, R:0, C:BERAWAN
+2025-07-01 21:37:08 - Statement SQL berhasil disiapkan.
+2025-07-01 21:37:08 - Parameter berhasil di-bind.
+2025-07-01 21:37:08 - SUCCESS: Data berhasil disimpan dengan ID: 4
+2025-07-01 21:37:08 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:37:18 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:37:18 - Koneksi database berhasil.
+2025-07-01 21:37:18 - Data mentah diterima: {"temperature":26.7,"humidity":77,"pressure":973.72,"altitude":334.47,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:37:18 - JSON berhasil di-decode.
+2025-07-01 21:37:18 - Data yang akan dimasukkan: T:26.7, H:77, P:973.72, A:334.47, R:0, C:BERAWAN
+2025-07-01 21:37:18 - Statement SQL berhasil disiapkan.
+2025-07-01 21:37:18 - Parameter berhasil di-bind.
+2025-07-01 21:37:18 - SUCCESS: Data berhasil disimpan dengan ID: 5
+2025-07-01 21:37:18 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:37:28 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:37:28 - Koneksi database berhasil.
+2025-07-01 21:37:28 - Data mentah diterima: {"temperature":26.7,"humidity":77,"pressure":973.71,"altitude":334.49,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:37:28 - JSON berhasil di-decode.
+2025-07-01 21:37:28 - Data yang akan dimasukkan: T:26.7, H:77, P:973.71, A:334.49, R:0, C:BERAWAN
+2025-07-01 21:37:28 - Statement SQL berhasil disiapkan.
+2025-07-01 21:37:28 - Parameter berhasil di-bind.
+2025-07-01 21:37:28 - SUCCESS: Data berhasil disimpan dengan ID: 6
+2025-07-01 21:37:28 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:37:38 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:37:38 - Koneksi database berhasil.
+2025-07-01 21:37:38 - Data mentah diterima: {"temperature":26.7,"humidity":76,"pressure":973.71,"altitude":334.55,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:37:38 - JSON berhasil di-decode.
+2025-07-01 21:37:38 - Data yang akan dimasukkan: T:26.7, H:76, P:973.71, A:334.55, R:0, C:BERAWAN
+2025-07-01 21:37:38 - Statement SQL berhasil disiapkan.
+2025-07-01 21:37:38 - Parameter berhasil di-bind.
+2025-07-01 21:37:38 - SUCCESS: Data berhasil disimpan dengan ID: 7
+2025-07-01 21:37:38 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:37:49 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:37:49 - Koneksi database berhasil.
+2025-07-01 21:37:49 - Data mentah diterima: {"temperature":26.7,"humidity":76,"pressure":973.7,"altitude":334.57,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:37:49 - JSON berhasil di-decode.
+2025-07-01 21:37:49 - Data yang akan dimasukkan: T:26.7, H:76, P:973.7, A:334.57, R:0, C:BERAWAN
+2025-07-01 21:37:49 - Statement SQL berhasil disiapkan.
+2025-07-01 21:37:49 - Parameter berhasil di-bind.
+2025-07-01 21:37:49 - SUCCESS: Data berhasil disimpan dengan ID: 8
+2025-07-01 21:37:49 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:37:58 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:37:58 - Koneksi database berhasil.
+2025-07-01 21:37:58 - Data mentah diterima: {"temperature":26.7,"humidity":76,"pressure":973.7,"altitude":334.57,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:37:58 - JSON berhasil di-decode.
+2025-07-01 21:37:58 - Data yang akan dimasukkan: T:26.7, H:76, P:973.7, A:334.57, R:0, C:BERAWAN
+2025-07-01 21:37:58 - Statement SQL berhasil disiapkan.
+2025-07-01 21:37:58 - Parameter berhasil di-bind.
+2025-07-01 21:37:58 - SUCCESS: Data berhasil disimpan dengan ID: 9
+2025-07-01 21:37:58 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:38:08 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:38:08 - Koneksi database berhasil.
+2025-07-01 21:38:08 - Data mentah diterima: {"temperature":26.7,"humidity":76,"pressure":973.7,"altitude":334.62,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:38:08 - JSON berhasil di-decode.
+2025-07-01 21:38:08 - Data yang akan dimasukkan: T:26.7, H:76, P:973.7, A:334.62, R:0, C:BERAWAN
+2025-07-01 21:38:08 - Statement SQL berhasil disiapkan.
+2025-07-01 21:38:08 - Parameter berhasil di-bind.
+2025-07-01 21:38:08 - SUCCESS: Data berhasil disimpan dengan ID: 10
+2025-07-01 21:38:08 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:38:18 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:38:18 - Koneksi database berhasil.
+2025-07-01 21:38:18 - Data mentah diterima: {"temperature":26.7,"humidity":76,"pressure":973.68,"altitude":334.74,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:38:18 - JSON berhasil di-decode.
+2025-07-01 21:38:18 - Data yang akan dimasukkan: T:26.7, H:76, P:973.68, A:334.74, R:0, C:BERAWAN
+2025-07-01 21:38:18 - Statement SQL berhasil disiapkan.
+2025-07-01 21:38:18 - Parameter berhasil di-bind.
+2025-07-01 21:38:18 - SUCCESS: Data berhasil disimpan dengan ID: 11
+2025-07-01 21:38:18 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:38:28 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:38:28 - Koneksi database berhasil.
+2025-07-01 21:38:28 - Data mentah diterima: {"temperature":26.7,"humidity":76,"pressure":973.68,"altitude":334.76,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:38:28 - JSON berhasil di-decode.
+2025-07-01 21:38:28 - Data yang akan dimasukkan: T:26.7, H:76, P:973.68, A:334.76, R:0, C:BERAWAN
+2025-07-01 21:38:28 - Statement SQL berhasil disiapkan.
+2025-07-01 21:38:28 - Parameter berhasil di-bind.
+2025-07-01 21:38:28 - SUCCESS: Data berhasil disimpan dengan ID: 12
+2025-07-01 21:38:28 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:38:38 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:38:38 - Koneksi database berhasil.
+2025-07-01 21:38:38 - Data mentah diterima: {"temperature":26.7,"humidity":76,"pressure":973.68,"altitude":334.78,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:38:38 - JSON berhasil di-decode.
+2025-07-01 21:38:38 - Data yang akan dimasukkan: T:26.7, H:76, P:973.68, A:334.78, R:0, C:BERAWAN
+2025-07-01 21:38:38 - Statement SQL berhasil disiapkan.
+2025-07-01 21:38:38 - Parameter berhasil di-bind.
+2025-07-01 21:38:38 - SUCCESS: Data berhasil disimpan dengan ID: 13
+2025-07-01 21:38:38 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:38:48 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:38:48 - Koneksi database berhasil.
+2025-07-01 21:38:48 - Data mentah diterima: {"temperature":26.7,"humidity":76,"pressure":973.68,"altitude":334.75,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:38:48 - JSON berhasil di-decode.
+2025-07-01 21:38:48 - Data yang akan dimasukkan: T:26.7, H:76, P:973.68, A:334.75, R:0, C:BERAWAN
+2025-07-01 21:38:48 - Statement SQL berhasil disiapkan.
+2025-07-01 21:38:48 - Parameter berhasil di-bind.
+2025-07-01 21:38:48 - SUCCESS: Data berhasil disimpan dengan ID: 14
+2025-07-01 21:38:48 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:38:59 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:38:59 - Koneksi database berhasil.
+2025-07-01 21:38:59 - Data mentah diterima: {"temperature":26.7,"humidity":76,"pressure":973.69,"altitude":334.72,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:38:59 - JSON berhasil di-decode.
+2025-07-01 21:38:59 - Data yang akan dimasukkan: T:26.7, H:76, P:973.69, A:334.72, R:0, C:BERAWAN
+2025-07-01 21:38:59 - Statement SQL berhasil disiapkan.
+2025-07-01 21:38:59 - Parameter berhasil di-bind.
+2025-07-01 21:38:59 - SUCCESS: Data berhasil disimpan dengan ID: 15
+2025-07-01 21:38:59 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:39:08 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:39:08 - Koneksi database berhasil.
+2025-07-01 21:39:08 - Data mentah diterima: {"temperature":26.7,"humidity":76,"pressure":973.68,"altitude":334.75,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:39:08 - JSON berhasil di-decode.
+2025-07-01 21:39:08 - Data yang akan dimasukkan: T:26.7, H:76, P:973.68, A:334.75, R:0, C:BERAWAN
+2025-07-01 21:39:08 - Statement SQL berhasil disiapkan.
+2025-07-01 21:39:08 - Parameter berhasil di-bind.
+2025-07-01 21:39:08 - SUCCESS: Data berhasil disimpan dengan ID: 16
+2025-07-01 21:39:08 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:39:19 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:39:19 - Koneksi database berhasil.
+2025-07-01 21:39:19 - Data mentah diterima: {"temperature":26.7,"humidity":76,"pressure":973.69,"altitude":334.73,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:39:19 - JSON berhasil di-decode.
+2025-07-01 21:39:19 - Data yang akan dimasukkan: T:26.7, H:76, P:973.69, A:334.73, R:0, C:BERAWAN
+2025-07-01 21:39:19 - Statement SQL berhasil disiapkan.
+2025-07-01 21:39:19 - Parameter berhasil di-bind.
+2025-07-01 21:39:19 - SUCCESS: Data berhasil disimpan dengan ID: 17
+2025-07-01 21:39:19 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:39:29 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:39:29 - Koneksi database berhasil.
+2025-07-01 21:39:29 - Data mentah diterima: {"temperature":26.7,"humidity":76,"pressure":973.68,"altitude":334.76,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:39:29 - JSON berhasil di-decode.
+2025-07-01 21:39:29 - Data yang akan dimasukkan: T:26.7, H:76, P:973.68, A:334.76, R:0, C:BERAWAN
+2025-07-01 21:39:29 - Statement SQL berhasil disiapkan.
+2025-07-01 21:39:29 - Parameter berhasil di-bind.
+2025-07-01 21:39:29 - SUCCESS: Data berhasil disimpan dengan ID: 18
+2025-07-01 21:39:29 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:39:38 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:39:38 - Koneksi database berhasil.
+2025-07-01 21:39:38 - Data mentah diterima: {"temperature":26.7,"humidity":76,"pressure":973.69,"altitude":334.71,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:39:38 - JSON berhasil di-decode.
+2025-07-01 21:39:38 - Data yang akan dimasukkan: T:26.7, H:76, P:973.69, A:334.71, R:0, C:BERAWAN
+2025-07-01 21:39:38 - Statement SQL berhasil disiapkan.
+2025-07-01 21:39:38 - Parameter berhasil di-bind.
+2025-07-01 21:39:38 - SUCCESS: Data berhasil disimpan dengan ID: 19
+2025-07-01 21:39:38 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:39:48 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:39:48 - Koneksi database berhasil.
+2025-07-01 21:39:48 - Data mentah diterima: {"temperature":26.7,"humidity":76,"pressure":973.69,"altitude":334.73,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:39:48 - JSON berhasil di-decode.
+2025-07-01 21:39:48 - Data yang akan dimasukkan: T:26.7, H:76, P:973.69, A:334.73, R:0, C:BERAWAN
+2025-07-01 21:39:48 - Statement SQL berhasil disiapkan.
+2025-07-01 21:39:48 - Parameter berhasil di-bind.
+2025-07-01 21:39:48 - SUCCESS: Data berhasil disimpan dengan ID: 20
+2025-07-01 21:39:48 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:40:01 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:40:01 - Koneksi database berhasil.
+2025-07-01 21:40:01 - Data mentah diterima: {"temperature":26.7,"humidity":76,"pressure":973.68,"altitude":334.75,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:40:01 - JSON berhasil di-decode.
+2025-07-01 21:40:01 - Data yang akan dimasukkan: T:26.7, H:76, P:973.68, A:334.75, R:0, C:BERAWAN
+2025-07-01 21:40:01 - Statement SQL berhasil disiapkan.
+2025-07-01 21:40:01 - Parameter berhasil di-bind.
+2025-07-01 21:40:01 - SUCCESS: Data berhasil disimpan dengan ID: 21
+2025-07-01 21:40:01 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:40:08 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:40:08 - Koneksi database berhasil.
+2025-07-01 21:40:08 - Data mentah diterima: {"temperature":26.7,"humidity":76,"pressure":973.67,"altitude":334.86,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:40:08 - JSON berhasil di-decode.
+2025-07-01 21:40:08 - Data yang akan dimasukkan: T:26.7, H:76, P:973.67, A:334.86, R:0, C:BERAWAN
+2025-07-01 21:40:08 - Statement SQL berhasil disiapkan.
+2025-07-01 21:40:08 - Parameter berhasil di-bind.
+2025-07-01 21:40:08 - SUCCESS: Data berhasil disimpan dengan ID: 22
+2025-07-01 21:40:08 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:40:19 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:40:19 - Koneksi database berhasil.
+2025-07-01 21:40:19 - Data mentah diterima: {"temperature":26.7,"humidity":76,"pressure":973.68,"altitude":334.76,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:40:19 - JSON berhasil di-decode.
+2025-07-01 21:40:19 - Data yang akan dimasukkan: T:26.7, H:76, P:973.68, A:334.76, R:0, C:BERAWAN
+2025-07-01 21:40:19 - Statement SQL berhasil disiapkan.
+2025-07-01 21:40:19 - Parameter berhasil di-bind.
+2025-07-01 21:40:19 - SUCCESS: Data berhasil disimpan dengan ID: 23
+2025-07-01 21:40:19 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:40:29 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:40:29 - Koneksi database berhasil.
+2025-07-01 21:40:29 - Data mentah diterima: {"temperature":26.7,"humidity":76,"pressure":973.67,"altitude":334.84,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:40:29 - JSON berhasil di-decode.
+2025-07-01 21:40:29 - Data yang akan dimasukkan: T:26.7, H:76, P:973.67, A:334.84, R:0, C:BERAWAN
+2025-07-01 21:40:29 - Statement SQL berhasil disiapkan.
+2025-07-01 21:40:29 - Parameter berhasil di-bind.
+2025-07-01 21:40:29 - SUCCESS: Data berhasil disimpan dengan ID: 24
+2025-07-01 21:40:29 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:40:39 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:40:39 - Koneksi database berhasil.
+2025-07-01 21:40:39 - Data mentah diterima: {"temperature":26.7,"humidity":76,"pressure":973.68,"altitude":334.77,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:40:39 - JSON berhasil di-decode.
+2025-07-01 21:40:39 - Data yang akan dimasukkan: T:26.7, H:76, P:973.68, A:334.77, R:0, C:BERAWAN
+2025-07-01 21:40:39 - Statement SQL berhasil disiapkan.
+2025-07-01 21:40:39 - Parameter berhasil di-bind.
+2025-07-01 21:40:39 - SUCCESS: Data berhasil disimpan dengan ID: 25
+2025-07-01 21:40:39 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:40:49 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:40:49 - Koneksi database berhasil.
+2025-07-01 21:40:49 - Data mentah diterima: {"temperature":26.7,"humidity":76,"pressure":973.7,"altitude":334.64,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:40:49 - JSON berhasil di-decode.
+2025-07-01 21:40:49 - Data yang akan dimasukkan: T:26.7, H:76, P:973.7, A:334.64, R:0, C:BERAWAN
+2025-07-01 21:40:49 - Statement SQL berhasil disiapkan.
+2025-07-01 21:40:49 - Parameter berhasil di-bind.
+2025-07-01 21:40:49 - SUCCESS: Data berhasil disimpan dengan ID: 26
+2025-07-01 21:40:49 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:40:58 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:40:58 - Koneksi database berhasil.
+2025-07-01 21:40:58 - Data mentah diterima: {"temperature":26.7,"humidity":76,"pressure":973.7,"altitude":334.65,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:40:58 - JSON berhasil di-decode.
+2025-07-01 21:40:58 - Data yang akan dimasukkan: T:26.7, H:76, P:973.7, A:334.65, R:0, C:BERAWAN
+2025-07-01 21:40:58 - Statement SQL berhasil disiapkan.
+2025-07-01 21:40:58 - Parameter berhasil di-bind.
+2025-07-01 21:40:58 - SUCCESS: Data berhasil disimpan dengan ID: 27
+2025-07-01 21:40:58 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:41:09 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:41:09 - Koneksi database berhasil.
+2025-07-01 21:41:09 - Data mentah diterima: {"temperature":26.7,"humidity":76,"pressure":973.69,"altitude":334.7,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:41:09 - JSON berhasil di-decode.
+2025-07-01 21:41:09 - Data yang akan dimasukkan: T:26.7, H:76, P:973.69, A:334.7, R:0, C:BERAWAN
+2025-07-01 21:41:09 - Statement SQL berhasil disiapkan.
+2025-07-01 21:41:09 - Parameter berhasil di-bind.
+2025-07-01 21:41:09 - SUCCESS: Data berhasil disimpan dengan ID: 28
+2025-07-01 21:41:09 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:41:18 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:41:18 - Koneksi database berhasil.
+2025-07-01 21:41:18 - Data mentah diterima: {"temperature":26.7,"humidity":76,"pressure":973.7,"altitude":334.63,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:41:18 - JSON berhasil di-decode.
+2025-07-01 21:41:18 - Data yang akan dimasukkan: T:26.7, H:76, P:973.7, A:334.63, R:0, C:BERAWAN
+2025-07-01 21:41:18 - Statement SQL berhasil disiapkan.
+2025-07-01 21:41:18 - Parameter berhasil di-bind.
+2025-07-01 21:41:18 - SUCCESS: Data berhasil disimpan dengan ID: 29
+2025-07-01 21:41:18 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:41:28 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:41:28 - Koneksi database berhasil.
+2025-07-01 21:41:28 - Data mentah diterima: {"temperature":26.7,"humidity":76,"pressure":973.7,"altitude":334.63,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:41:28 - JSON berhasil di-decode.
+2025-07-01 21:41:28 - Data yang akan dimasukkan: T:26.7, H:76, P:973.7, A:334.63, R:0, C:BERAWAN
+2025-07-01 21:41:28 - Statement SQL berhasil disiapkan.
+2025-07-01 21:41:28 - Parameter berhasil di-bind.
+2025-07-01 21:41:28 - SUCCESS: Data berhasil disimpan dengan ID: 30
+2025-07-01 21:41:28 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:41:38 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:41:38 - Koneksi database berhasil.
+2025-07-01 21:41:38 - Data mentah diterima: {"temperature":26.7,"humidity":76,"pressure":973.69,"altitude":334.71,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:41:38 - JSON berhasil di-decode.
+2025-07-01 21:41:38 - Data yang akan dimasukkan: T:26.7, H:76, P:973.69, A:334.71, R:0, C:BERAWAN
+2025-07-01 21:41:38 - Statement SQL berhasil disiapkan.
+2025-07-01 21:41:38 - Parameter berhasil di-bind.
+2025-07-01 21:41:38 - SUCCESS: Data berhasil disimpan dengan ID: 31
+2025-07-01 21:41:38 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:41:48 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:41:48 - Koneksi database berhasil.
+2025-07-01 21:41:48 - Data mentah diterima: {"temperature":26.7,"humidity":76,"pressure":973.68,"altitude":334.75,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:41:48 - JSON berhasil di-decode.
+2025-07-01 21:41:48 - Data yang akan dimasukkan: T:26.7, H:76, P:973.68, A:334.75, R:0, C:BERAWAN
+2025-07-01 21:41:48 - Statement SQL berhasil disiapkan.
+2025-07-01 21:41:48 - Parameter berhasil di-bind.
+2025-07-01 21:41:48 - SUCCESS: Data berhasil disimpan dengan ID: 32
+2025-07-01 21:41:48 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:41:58 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:41:58 - Koneksi database berhasil.
+2025-07-01 21:41:58 - Data mentah diterima: {"temperature":26.7,"humidity":76,"pressure":973.7,"altitude":334.63,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:41:58 - JSON berhasil di-decode.
+2025-07-01 21:41:58 - Data yang akan dimasukkan: T:26.7, H:76, P:973.7, A:334.63, R:0, C:BERAWAN
+2025-07-01 21:41:58 - Statement SQL berhasil disiapkan.
+2025-07-01 21:41:58 - Parameter berhasil di-bind.
+2025-07-01 21:41:58 - SUCCESS: Data berhasil disimpan dengan ID: 33
+2025-07-01 21:41:58 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:42:08 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:42:08 - Koneksi database berhasil.
+2025-07-01 21:42:08 - Data mentah diterima: {"temperature":26.7,"humidity":76,"pressure":973.69,"altitude":334.73,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:42:08 - JSON berhasil di-decode.
+2025-07-01 21:42:08 - Data yang akan dimasukkan: T:26.7, H:76, P:973.69, A:334.73, R:0, C:BERAWAN
+2025-07-01 21:42:08 - Statement SQL berhasil disiapkan.
+2025-07-01 21:42:08 - Parameter berhasil di-bind.
+2025-07-01 21:42:08 - SUCCESS: Data berhasil disimpan dengan ID: 34
+2025-07-01 21:42:08 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:42:18 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:42:18 - Koneksi database berhasil.
+2025-07-01 21:42:18 - Data mentah diterima: {"temperature":26.7,"humidity":76,"pressure":973.7,"altitude":334.64,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:42:18 - JSON berhasil di-decode.
+2025-07-01 21:42:18 - Data yang akan dimasukkan: T:26.7, H:76, P:973.7, A:334.64, R:0, C:BERAWAN
+2025-07-01 21:42:18 - Statement SQL berhasil disiapkan.
+2025-07-01 21:42:18 - Parameter berhasil di-bind.
+2025-07-01 21:42:18 - SUCCESS: Data berhasil disimpan dengan ID: 35
+2025-07-01 21:42:18 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:42:29 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:42:29 - Koneksi database berhasil.
+2025-07-01 21:42:29 - Data mentah diterima: {"temperature":26.7,"humidity":76,"pressure":973.69,"altitude":334.66,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:42:29 - JSON berhasil di-decode.
+2025-07-01 21:42:29 - Data yang akan dimasukkan: T:26.7, H:76, P:973.69, A:334.66, R:0, C:BERAWAN
+2025-07-01 21:42:29 - Statement SQL berhasil disiapkan.
+2025-07-01 21:42:29 - Parameter berhasil di-bind.
+2025-07-01 21:42:29 - SUCCESS: Data berhasil disimpan dengan ID: 36
+2025-07-01 21:42:29 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:42:38 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:42:38 - Koneksi database berhasil.
+2025-07-01 21:42:38 - Data mentah diterima: {"temperature":26.7,"humidity":76,"pressure":973.69,"altitude":334.67,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:42:38 - JSON berhasil di-decode.
+2025-07-01 21:42:38 - Data yang akan dimasukkan: T:26.7, H:76, P:973.69, A:334.67, R:0, C:BERAWAN
+2025-07-01 21:42:38 - Statement SQL berhasil disiapkan.
+2025-07-01 21:42:38 - Parameter berhasil di-bind.
+2025-07-01 21:42:38 - SUCCESS: Data berhasil disimpan dengan ID: 37
+2025-07-01 21:42:38 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:42:48 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:42:48 - Koneksi database berhasil.
+2025-07-01 21:42:48 - Data mentah diterima: {"temperature":26.7,"humidity":76,"pressure":973.69,"altitude":334.72,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:42:48 - JSON berhasil di-decode.
+2025-07-01 21:42:48 - Data yang akan dimasukkan: T:26.7, H:76, P:973.69, A:334.72, R:0, C:BERAWAN
+2025-07-01 21:42:48 - Statement SQL berhasil disiapkan.
+2025-07-01 21:42:48 - Parameter berhasil di-bind.
+2025-07-01 21:42:48 - SUCCESS: Data berhasil disimpan dengan ID: 38
+2025-07-01 21:42:48 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:42:59 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:42:59 - Koneksi database berhasil.
+2025-07-01 21:42:59 - Data mentah diterima: {"temperature":26.7,"humidity":76,"pressure":973.7,"altitude":334.62,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:42:59 - JSON berhasil di-decode.
+2025-07-01 21:42:59 - Data yang akan dimasukkan: T:26.7, H:76, P:973.7, A:334.62, R:0, C:BERAWAN
+2025-07-01 21:42:59 - Statement SQL berhasil disiapkan.
+2025-07-01 21:42:59 - Parameter berhasil di-bind.
+2025-07-01 21:42:59 - SUCCESS: Data berhasil disimpan dengan ID: 39
+2025-07-01 21:42:59 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:43:08 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:43:08 - Koneksi database berhasil.
+2025-07-01 21:43:08 - Data mentah diterima: {"temperature":26.7,"humidity":77,"pressure":973.69,"altitude":334.67,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:43:08 - JSON berhasil di-decode.
+2025-07-01 21:43:08 - Data yang akan dimasukkan: T:26.7, H:77, P:973.69, A:334.67, R:0, C:BERAWAN
+2025-07-01 21:43:08 - Statement SQL berhasil disiapkan.
+2025-07-01 21:43:08 - Parameter berhasil di-bind.
+2025-07-01 21:43:08 - SUCCESS: Data berhasil disimpan dengan ID: 40
+2025-07-01 21:43:08 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:43:18 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:43:18 - Koneksi database berhasil.
+2025-07-01 21:43:18 - Data mentah diterima: {"temperature":26.7,"humidity":77,"pressure":973.7,"altitude":334.62,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:43:18 - JSON berhasil di-decode.
+2025-07-01 21:43:18 - Data yang akan dimasukkan: T:26.7, H:77, P:973.7, A:334.62, R:0, C:BERAWAN
+2025-07-01 21:43:18 - Statement SQL berhasil disiapkan.
+2025-07-01 21:43:18 - Parameter berhasil di-bind.
+2025-07-01 21:43:18 - SUCCESS: Data berhasil disimpan dengan ID: 41
+2025-07-01 21:43:18 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:43:28 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:43:28 - Koneksi database berhasil.
+2025-07-01 21:43:28 - Data mentah diterima: {"temperature":26.7,"humidity":77,"pressure":973.7,"altitude":334.59,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:43:28 - JSON berhasil di-decode.
+2025-07-01 21:43:28 - Data yang akan dimasukkan: T:26.7, H:77, P:973.7, A:334.59, R:0, C:BERAWAN
+2025-07-01 21:43:28 - Statement SQL berhasil disiapkan.
+2025-07-01 21:43:28 - Parameter berhasil di-bind.
+2025-07-01 21:43:28 - SUCCESS: Data berhasil disimpan dengan ID: 42
+2025-07-01 21:43:28 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:43:38 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:43:38 - Koneksi database berhasil.
+2025-07-01 21:43:38 - Data mentah diterima: {"temperature":26.7,"humidity":76,"pressure":973.7,"altitude":334.6,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:43:38 - JSON berhasil di-decode.
+2025-07-01 21:43:38 - Data yang akan dimasukkan: T:26.7, H:76, P:973.7, A:334.6, R:0, C:BERAWAN
+2025-07-01 21:43:38 - Statement SQL berhasil disiapkan.
+2025-07-01 21:43:38 - Parameter berhasil di-bind.
+2025-07-01 21:43:38 - SUCCESS: Data berhasil disimpan dengan ID: 43
+2025-07-01 21:43:38 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:43:48 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:43:48 - Koneksi database berhasil.
+2025-07-01 21:43:48 - Data mentah diterima: {"temperature":26.7,"humidity":76,"pressure":973.7,"altitude":334.62,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:43:48 - JSON berhasil di-decode.
+2025-07-01 21:43:48 - Data yang akan dimasukkan: T:26.7, H:76, P:973.7, A:334.62, R:0, C:BERAWAN
+2025-07-01 21:43:48 - Statement SQL berhasil disiapkan.
+2025-07-01 21:43:48 - Parameter berhasil di-bind.
+2025-07-01 21:43:48 - SUCCESS: Data berhasil disimpan dengan ID: 44
+2025-07-01 21:43:48 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:43:58 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:43:58 - Koneksi database berhasil.
+2025-07-01 21:43:58 - Data mentah diterima: {"temperature":26.7,"humidity":76,"pressure":973.71,"altitude":334.5,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:43:58 - JSON berhasil di-decode.
+2025-07-01 21:43:58 - Data yang akan dimasukkan: T:26.7, H:76, P:973.71, A:334.5, R:0, C:BERAWAN
+2025-07-01 21:43:58 - Statement SQL berhasil disiapkan.
+2025-07-01 21:43:58 - Parameter berhasil di-bind.
+2025-07-01 21:43:58 - SUCCESS: Data berhasil disimpan dengan ID: 45
+2025-07-01 21:43:58 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:44:08 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:44:08 - Koneksi database berhasil.
+2025-07-01 21:44:08 - Data mentah diterima: {"temperature":26.7,"humidity":76,"pressure":973.71,"altitude":334.48,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:44:08 - JSON berhasil di-decode.
+2025-07-01 21:44:08 - Data yang akan dimasukkan: T:26.7, H:76, P:973.71, A:334.48, R:0, C:BERAWAN
+2025-07-01 21:44:08 - Statement SQL berhasil disiapkan.
+2025-07-01 21:44:08 - Parameter berhasil di-bind.
+2025-07-01 21:44:08 - SUCCESS: Data berhasil disimpan dengan ID: 46
+2025-07-01 21:44:08 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:44:18 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:44:18 - Koneksi database berhasil.
+2025-07-01 21:44:18 - Data mentah diterima: {"temperature":26.7,"humidity":76,"pressure":973.72,"altitude":334.47,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:44:18 - JSON berhasil di-decode.
+2025-07-01 21:44:18 - Data yang akan dimasukkan: T:26.7, H:76, P:973.72, A:334.47, R:0, C:BERAWAN
+2025-07-01 21:44:18 - Statement SQL berhasil disiapkan.
+2025-07-01 21:44:18 - Parameter berhasil di-bind.
+2025-07-01 21:44:18 - SUCCESS: Data berhasil disimpan dengan ID: 47
+2025-07-01 21:44:18 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:44:28 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:44:28 - Koneksi database berhasil.
+2025-07-01 21:44:28 - Data mentah diterima: {"temperature":26.7,"humidity":75,"pressure":973.71,"altitude":334.54,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:44:28 - JSON berhasil di-decode.
+2025-07-01 21:44:28 - Data yang akan dimasukkan: T:26.7, H:75, P:973.71, A:334.54, R:0, C:BERAWAN
+2025-07-01 21:44:28 - Statement SQL berhasil disiapkan.
+2025-07-01 21:44:28 - Parameter berhasil di-bind.
+2025-07-01 21:44:28 - SUCCESS: Data berhasil disimpan dengan ID: 48
+2025-07-01 21:44:28 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:44:34 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:44:34 - Koneksi database berhasil.
+2025-07-01 21:44:34 - Data mentah diterima: 
+2025-07-01 21:44:34 - ERROR: Data tidak diterima atau format JSON tidak valid.
+2025-07-01 21:44:38 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:44:38 - Koneksi database berhasil.
+2025-07-01 21:44:38 - Data mentah diterima: {"temperature":26.7,"humidity":75,"pressure":973.7,"altitude":334.64,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:44:38 - JSON berhasil di-decode.
+2025-07-01 21:44:38 - Data yang akan dimasukkan: T:26.7, H:75, P:973.7, A:334.64, R:0, C:BERAWAN
+2025-07-01 21:44:38 - Statement SQL berhasil disiapkan.
+2025-07-01 21:44:38 - Parameter berhasil di-bind.
+2025-07-01 21:44:38 - SUCCESS: Data berhasil disimpan dengan ID: 49
+2025-07-01 21:44:38 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:44:40 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:44:40 - Koneksi database berhasil.
+2025-07-01 21:44:40 - Data mentah diterima: 
+2025-07-01 21:44:40 - ERROR: Data tidak diterima atau format JSON tidak valid.
+2025-07-01 21:44:41 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:44:41 - Koneksi database berhasil.
+2025-07-01 21:44:41 - Data mentah diterima: 
+2025-07-01 21:44:41 - ERROR: Data tidak diterima atau format JSON tidak valid.
+2025-07-01 21:44:42 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:44:42 - Koneksi database berhasil.
+2025-07-01 21:44:42 - Data mentah diterima: 
+2025-07-01 21:44:42 - ERROR: Data tidak diterima atau format JSON tidak valid.
+2025-07-01 21:44:42 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:44:42 - Koneksi database berhasil.
+2025-07-01 21:44:42 - Data mentah diterima: 
+2025-07-01 21:44:42 - ERROR: Data tidak diterima atau format JSON tidak valid.
+2025-07-01 21:44:43 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:44:43 - Koneksi database berhasil.
+2025-07-01 21:44:43 - Data mentah diterima: 
+2025-07-01 21:44:43 - ERROR: Data tidak diterima atau format JSON tidak valid.
+2025-07-01 21:44:43 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:44:43 - Koneksi database berhasil.
+2025-07-01 21:44:43 - Data mentah diterima: 
+2025-07-01 21:44:43 - ERROR: Data tidak diterima atau format JSON tidak valid.
+2025-07-01 21:44:48 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:44:48 - Koneksi database berhasil.
+2025-07-01 21:44:48 - Data mentah diterima: {"temperature":26.7,"humidity":75,"pressure":973.71,"altitude":334.55,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:44:48 - JSON berhasil di-decode.
+2025-07-01 21:44:48 - Data yang akan dimasukkan: T:26.7, H:75, P:973.71, A:334.55, R:0, C:BERAWAN
+2025-07-01 21:44:48 - Statement SQL berhasil disiapkan.
+2025-07-01 21:44:48 - Parameter berhasil di-bind.
+2025-07-01 21:44:48 - SUCCESS: Data berhasil disimpan dengan ID: 50
+2025-07-01 21:44:48 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:44:58 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:44:58 - Koneksi database berhasil.
+2025-07-01 21:44:58 - Data mentah diterima: {"temperature":26.7,"humidity":75,"pressure":973.7,"altitude":334.6,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:44:58 - JSON berhasil di-decode.
+2025-07-01 21:44:58 - Data yang akan dimasukkan: T:26.7, H:75, P:973.7, A:334.6, R:0, C:BERAWAN
+2025-07-01 21:44:58 - Statement SQL berhasil disiapkan.
+2025-07-01 21:44:58 - Parameter berhasil di-bind.
+2025-07-01 21:44:58 - SUCCESS: Data berhasil disimpan dengan ID: 51
+2025-07-01 21:44:58 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:45:08 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:45:08 - Koneksi database berhasil.
+2025-07-01 21:45:08 - Data mentah diterima: {"temperature":26.7,"humidity":75,"pressure":973.7,"altitude":334.65,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:45:08 - JSON berhasil di-decode.
+2025-07-01 21:45:08 - Data yang akan dimasukkan: T:26.7, H:75, P:973.7, A:334.65, R:0, C:BERAWAN
+2025-07-01 21:45:08 - Statement SQL berhasil disiapkan.
+2025-07-01 21:45:08 - Parameter berhasil di-bind.
+2025-07-01 21:45:08 - SUCCESS: Data berhasil disimpan dengan ID: 52
+2025-07-01 21:45:08 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:45:18 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:45:18 - Koneksi database berhasil.
+2025-07-01 21:45:18 - Data mentah diterima: {"temperature":26.7,"humidity":76,"pressure":973.69,"altitude":334.66,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:45:18 - JSON berhasil di-decode.
+2025-07-01 21:45:18 - Data yang akan dimasukkan: T:26.7, H:76, P:973.69, A:334.66, R:0, C:BERAWAN
+2025-07-01 21:45:18 - Statement SQL berhasil disiapkan.
+2025-07-01 21:45:18 - Parameter berhasil di-bind.
+2025-07-01 21:45:18 - SUCCESS: Data berhasil disimpan dengan ID: 53
+2025-07-01 21:45:18 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:45:28 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:45:28 - Koneksi database berhasil.
+2025-07-01 21:45:28 - Data mentah diterima: {"temperature":26.7,"humidity":76,"pressure":973.71,"altitude":334.54,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:45:28 - JSON berhasil di-decode.
+2025-07-01 21:45:28 - Data yang akan dimasukkan: T:26.7, H:76, P:973.71, A:334.54, R:0, C:BERAWAN
+2025-07-01 21:45:28 - Statement SQL berhasil disiapkan.
+2025-07-01 21:45:28 - Parameter berhasil di-bind.
+2025-07-01 21:45:28 - SUCCESS: Data berhasil disimpan dengan ID: 54
+2025-07-01 21:45:28 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:45:38 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:45:38 - Koneksi database berhasil.
+2025-07-01 21:45:38 - Data mentah diterima: {"temperature":26.7,"humidity":76,"pressure":973.71,"altitude":334.51,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:45:38 - JSON berhasil di-decode.
+2025-07-01 21:45:38 - Data yang akan dimasukkan: T:26.7, H:76, P:973.71, A:334.51, R:0, C:BERAWAN
+2025-07-01 21:45:38 - Statement SQL berhasil disiapkan.
+2025-07-01 21:45:38 - Parameter berhasil di-bind.
+2025-07-01 21:45:38 - SUCCESS: Data berhasil disimpan dengan ID: 55
+2025-07-01 21:45:38 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:45:48 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:45:48 - Koneksi database berhasil.
+2025-07-01 21:45:48 - Data mentah diterima: {"temperature":26.7,"humidity":76,"pressure":973.72,"altitude":334.44,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:45:48 - JSON berhasil di-decode.
+2025-07-01 21:45:48 - Data yang akan dimasukkan: T:26.7, H:76, P:973.72, A:334.44, R:0, C:BERAWAN
+2025-07-01 21:45:48 - Statement SQL berhasil disiapkan.
+2025-07-01 21:45:48 - Parameter berhasil di-bind.
+2025-07-01 21:45:48 - SUCCESS: Data berhasil disimpan dengan ID: 56
+2025-07-01 21:45:48 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:45:58 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:45:58 - Koneksi database berhasil.
+2025-07-01 21:45:58 - Data mentah diterima: {"temperature":26.7,"humidity":76,"pressure":973.72,"altitude":334.41,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:45:58 - JSON berhasil di-decode.
+2025-07-01 21:45:58 - Data yang akan dimasukkan: T:26.7, H:76, P:973.72, A:334.41, R:0, C:BERAWAN
+2025-07-01 21:45:58 - Statement SQL berhasil disiapkan.
+2025-07-01 21:45:58 - Parameter berhasil di-bind.
+2025-07-01 21:45:58 - SUCCESS: Data berhasil disimpan dengan ID: 57
+2025-07-01 21:45:58 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:46:08 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:46:08 - Koneksi database berhasil.
+2025-07-01 21:46:08 - Data mentah diterima: {"temperature":26.7,"humidity":76,"pressure":973.73,"altitude":334.32,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:46:08 - JSON berhasil di-decode.
+2025-07-01 21:46:08 - Data yang akan dimasukkan: T:26.7, H:76, P:973.73, A:334.32, R:0, C:BERAWAN
+2025-07-01 21:46:08 - Statement SQL berhasil disiapkan.
+2025-07-01 21:46:08 - Parameter berhasil di-bind.
+2025-07-01 21:46:08 - SUCCESS: Data berhasil disimpan dengan ID: 58
+2025-07-01 21:46:08 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:46:18 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:46:18 - Koneksi database berhasil.
+2025-07-01 21:46:18 - Data mentah diterima: {"temperature":26.7,"humidity":76,"pressure":973.74,"altitude":334.29,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:46:18 - JSON berhasil di-decode.
+2025-07-01 21:46:18 - Data yang akan dimasukkan: T:26.7, H:76, P:973.74, A:334.29, R:0, C:BERAWAN
+2025-07-01 21:46:18 - Statement SQL berhasil disiapkan.
+2025-07-01 21:46:18 - Parameter berhasil di-bind.
+2025-07-01 21:46:18 - SUCCESS: Data berhasil disimpan dengan ID: 59
+2025-07-01 21:46:18 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:46:28 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:46:28 - Koneksi database berhasil.
+2025-07-01 21:46:28 - Data mentah diterima: {"temperature":26.7,"humidity":76,"pressure":973.73,"altitude":334.34,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:46:28 - JSON berhasil di-decode.
+2025-07-01 21:46:28 - Data yang akan dimasukkan: T:26.7, H:76, P:973.73, A:334.34, R:0, C:BERAWAN
+2025-07-01 21:46:28 - Statement SQL berhasil disiapkan.
+2025-07-01 21:46:28 - Parameter berhasil di-bind.
+2025-07-01 21:46:28 - SUCCESS: Data berhasil disimpan dengan ID: 60
+2025-07-01 21:46:28 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:46:38 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:46:38 - Koneksi database berhasil.
+2025-07-01 21:46:38 - Data mentah diterima: {"temperature":26.7,"humidity":76,"pressure":973.73,"altitude":334.37,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:46:38 - JSON berhasil di-decode.
+2025-07-01 21:46:38 - Data yang akan dimasukkan: T:26.7, H:76, P:973.73, A:334.37, R:0, C:BERAWAN
+2025-07-01 21:46:38 - Statement SQL berhasil disiapkan.
+2025-07-01 21:46:38 - Parameter berhasil di-bind.
+2025-07-01 21:46:38 - SUCCESS: Data berhasil disimpan dengan ID: 61
+2025-07-01 21:46:38 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:46:48 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:46:48 - Koneksi database berhasil.
+2025-07-01 21:46:48 - Data mentah diterima: {"temperature":26.7,"humidity":76,"pressure":973.72,"altitude":334.41,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:46:48 - JSON berhasil di-decode.
+2025-07-01 21:46:48 - Data yang akan dimasukkan: T:26.7, H:76, P:973.72, A:334.41, R:0, C:BERAWAN
+2025-07-01 21:46:48 - Statement SQL berhasil disiapkan.
+2025-07-01 21:46:48 - Parameter berhasil di-bind.
+2025-07-01 21:46:48 - SUCCESS: Data berhasil disimpan dengan ID: 62
+2025-07-01 21:46:48 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:46:58 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:46:58 - Koneksi database berhasil.
+2025-07-01 21:46:58 - Data mentah diterima: {"temperature":26.7,"humidity":76,"pressure":973.73,"altitude":334.33,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:46:58 - JSON berhasil di-decode.
+2025-07-01 21:46:58 - Data yang akan dimasukkan: T:26.7, H:76, P:973.73, A:334.33, R:0, C:BERAWAN
+2025-07-01 21:46:58 - Statement SQL berhasil disiapkan.
+2025-07-01 21:46:58 - Parameter berhasil di-bind.
+2025-07-01 21:46:58 - SUCCESS: Data berhasil disimpan dengan ID: 63
+2025-07-01 21:46:58 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:47:08 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:47:08 - Koneksi database berhasil.
+2025-07-01 21:47:08 - Data mentah diterima: {"temperature":26.7,"humidity":76,"pressure":973.73,"altitude":334.36,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:47:08 - JSON berhasil di-decode.
+2025-07-01 21:47:08 - Data yang akan dimasukkan: T:26.7, H:76, P:973.73, A:334.36, R:0, C:BERAWAN
+2025-07-01 21:47:08 - Statement SQL berhasil disiapkan.
+2025-07-01 21:47:08 - Parameter berhasil di-bind.
+2025-07-01 21:47:08 - SUCCESS: Data berhasil disimpan dengan ID: 64
+2025-07-01 21:47:08 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:47:18 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:47:18 - Koneksi database berhasil.
+2025-07-01 21:47:18 - Data mentah diterima: {"temperature":26.7,"humidity":76,"pressure":973.74,"altitude":334.3,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:47:18 - JSON berhasil di-decode.
+2025-07-01 21:47:18 - Data yang akan dimasukkan: T:26.7, H:76, P:973.74, A:334.3, R:0, C:BERAWAN
+2025-07-01 21:47:18 - Statement SQL berhasil disiapkan.
+2025-07-01 21:47:18 - Parameter berhasil di-bind.
+2025-07-01 21:47:18 - SUCCESS: Data berhasil disimpan dengan ID: 65
+2025-07-01 21:47:18 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:47:28 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:47:28 - Koneksi database berhasil.
+2025-07-01 21:47:28 - Data mentah diterima: {"temperature":26.7,"humidity":76,"pressure":973.74,"altitude":334.31,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:47:28 - JSON berhasil di-decode.
+2025-07-01 21:47:28 - Data yang akan dimasukkan: T:26.7, H:76, P:973.74, A:334.31, R:0, C:BERAWAN
+2025-07-01 21:47:28 - Statement SQL berhasil disiapkan.
+2025-07-01 21:47:28 - Parameter berhasil di-bind.
+2025-07-01 21:47:28 - SUCCESS: Data berhasil disimpan dengan ID: 66
+2025-07-01 21:47:28 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:47:38 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:47:38 - Koneksi database berhasil.
+2025-07-01 21:47:38 - Data mentah diterima: {"temperature":26.7,"humidity":76,"pressure":973.74,"altitude":334.31,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:47:38 - JSON berhasil di-decode.
+2025-07-01 21:47:38 - Data yang akan dimasukkan: T:26.7, H:76, P:973.74, A:334.31, R:0, C:BERAWAN
+2025-07-01 21:47:38 - Statement SQL berhasil disiapkan.
+2025-07-01 21:47:38 - Parameter berhasil di-bind.
+2025-07-01 21:47:38 - SUCCESS: Data berhasil disimpan dengan ID: 67
+2025-07-01 21:47:38 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:47:48 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:47:48 - Koneksi database berhasil.
+2025-07-01 21:47:48 - Data mentah diterima: {"temperature":26.7,"humidity":76,"pressure":973.74,"altitude":334.31,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:47:48 - JSON berhasil di-decode.
+2025-07-01 21:47:48 - Data yang akan dimasukkan: T:26.7, H:76, P:973.74, A:334.31, R:0, C:BERAWAN
+2025-07-01 21:47:48 - Statement SQL berhasil disiapkan.
+2025-07-01 21:47:48 - Parameter berhasil di-bind.
+2025-07-01 21:47:48 - SUCCESS: Data berhasil disimpan dengan ID: 68
+2025-07-01 21:47:48 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:47:58 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:47:58 - Koneksi database berhasil.
+2025-07-01 21:47:58 - Data mentah diterima: {"temperature":26.7,"humidity":76,"pressure":973.74,"altitude":334.29,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:47:58 - JSON berhasil di-decode.
+2025-07-01 21:47:58 - Data yang akan dimasukkan: T:26.7, H:76, P:973.74, A:334.29, R:0, C:BERAWAN
+2025-07-01 21:47:58 - Statement SQL berhasil disiapkan.
+2025-07-01 21:47:58 - Parameter berhasil di-bind.
+2025-07-01 21:47:58 - SUCCESS: Data berhasil disimpan dengan ID: 69
+2025-07-01 21:47:58 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:48:08 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:48:08 - Koneksi database berhasil.
+2025-07-01 21:48:08 - Data mentah diterima: {"temperature":26.7,"humidity":76,"pressure":973.75,"altitude":334.21,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:48:08 - JSON berhasil di-decode.
+2025-07-01 21:48:08 - Data yang akan dimasukkan: T:26.7, H:76, P:973.75, A:334.21, R:0, C:BERAWAN
+2025-07-01 21:48:08 - Statement SQL berhasil disiapkan.
+2025-07-01 21:48:08 - Parameter berhasil di-bind.
+2025-07-01 21:48:08 - SUCCESS: Data berhasil disimpan dengan ID: 70
+2025-07-01 21:48:08 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:48:18 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:48:18 - Koneksi database berhasil.
+2025-07-01 21:48:18 - Data mentah diterima: {"temperature":26.7,"humidity":75,"pressure":973.75,"altitude":334.16,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:48:18 - JSON berhasil di-decode.
+2025-07-01 21:48:18 - Data yang akan dimasukkan: T:26.7, H:75, P:973.75, A:334.16, R:0, C:BERAWAN
+2025-07-01 21:48:18 - Statement SQL berhasil disiapkan.
+2025-07-01 21:48:18 - Parameter berhasil di-bind.
+2025-07-01 21:48:18 - SUCCESS: Data berhasil disimpan dengan ID: 71
+2025-07-01 21:48:18 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:48:28 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:48:28 - Koneksi database berhasil.
+2025-07-01 21:48:28 - Data mentah diterima: {"temperature":26.7,"humidity":76,"pressure":973.75,"altitude":334.19,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:48:28 - JSON berhasil di-decode.
+2025-07-01 21:48:28 - Data yang akan dimasukkan: T:26.7, H:76, P:973.75, A:334.19, R:0, C:BERAWAN
+2025-07-01 21:48:28 - Statement SQL berhasil disiapkan.
+2025-07-01 21:48:28 - Parameter berhasil di-bind.
+2025-07-01 21:48:28 - SUCCESS: Data berhasil disimpan dengan ID: 72
+2025-07-01 21:48:28 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:48:38 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:48:38 - Koneksi database berhasil.
+2025-07-01 21:48:38 - Data mentah diterima: {"temperature":26.7,"humidity":76,"pressure":973.74,"altitude":334.25,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:48:38 - JSON berhasil di-decode.
+2025-07-01 21:48:38 - Data yang akan dimasukkan: T:26.7, H:76, P:973.74, A:334.25, R:0, C:BERAWAN
+2025-07-01 21:48:38 - Statement SQL berhasil disiapkan.
+2025-07-01 21:48:38 - Parameter berhasil di-bind.
+2025-07-01 21:48:38 - SUCCESS: Data berhasil disimpan dengan ID: 73
+2025-07-01 21:48:38 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:48:48 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:48:48 - Koneksi database berhasil.
+2025-07-01 21:48:48 - Data mentah diterima: {"temperature":26.7,"humidity":75,"pressure":973.76,"altitude":334.11,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:48:48 - JSON berhasil di-decode.
+2025-07-01 21:48:48 - Data yang akan dimasukkan: T:26.7, H:75, P:973.76, A:334.11, R:0, C:BERAWAN
+2025-07-01 21:48:48 - Statement SQL berhasil disiapkan.
+2025-07-01 21:48:48 - Parameter berhasil di-bind.
+2025-07-01 21:48:48 - SUCCESS: Data berhasil disimpan dengan ID: 74
+2025-07-01 21:48:48 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:48:58 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:48:58 - Koneksi database berhasil.
+2025-07-01 21:48:58 - Data mentah diterima: {"temperature":26.7,"humidity":76,"pressure":973.75,"altitude":334.16,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:48:58 - JSON berhasil di-decode.
+2025-07-01 21:48:58 - Data yang akan dimasukkan: T:26.7, H:76, P:973.75, A:334.16, R:0, C:BERAWAN
+2025-07-01 21:48:58 - Statement SQL berhasil disiapkan.
+2025-07-01 21:48:58 - Parameter berhasil di-bind.
+2025-07-01 21:48:58 - SUCCESS: Data berhasil disimpan dengan ID: 75
+2025-07-01 21:48:58 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:49:08 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:49:08 - Koneksi database berhasil.
+2025-07-01 21:49:08 - Data mentah diterima: {"temperature":26.7,"humidity":76,"pressure":973.74,"altitude":334.23,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:49:08 - JSON berhasil di-decode.
+2025-07-01 21:49:08 - Data yang akan dimasukkan: T:26.7, H:76, P:973.74, A:334.23, R:0, C:BERAWAN
+2025-07-01 21:49:08 - Statement SQL berhasil disiapkan.
+2025-07-01 21:49:08 - Parameter berhasil di-bind.
+2025-07-01 21:49:08 - SUCCESS: Data berhasil disimpan dengan ID: 76
+2025-07-01 21:49:08 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:49:18 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:49:18 - Koneksi database berhasil.
+2025-07-01 21:49:18 - Data mentah diterima: {"temperature":26.7,"humidity":76,"pressure":973.74,"altitude":334.27,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:49:18 - JSON berhasil di-decode.
+2025-07-01 21:49:18 - Data yang akan dimasukkan: T:26.7, H:76, P:973.74, A:334.27, R:0, C:BERAWAN
+2025-07-01 21:49:18 - Statement SQL berhasil disiapkan.
+2025-07-01 21:49:18 - Parameter berhasil di-bind.
+2025-07-01 21:49:18 - SUCCESS: Data berhasil disimpan dengan ID: 77
+2025-07-01 21:49:18 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:49:28 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:49:28 - Koneksi database berhasil.
+2025-07-01 21:49:28 - Data mentah diterima: {"temperature":26.7,"humidity":76,"pressure":973.76,"altitude":334.13,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:49:28 - JSON berhasil di-decode.
+2025-07-01 21:49:28 - Data yang akan dimasukkan: T:26.7, H:76, P:973.76, A:334.13, R:0, C:BERAWAN
+2025-07-01 21:49:28 - Statement SQL berhasil disiapkan.
+2025-07-01 21:49:28 - Parameter berhasil di-bind.
+2025-07-01 21:49:28 - SUCCESS: Data berhasil disimpan dengan ID: 78
+2025-07-01 21:49:28 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:49:38 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:49:38 - Koneksi database berhasil.
+2025-07-01 21:49:38 - Data mentah diterima: {"temperature":26.7,"humidity":76,"pressure":973.75,"altitude":334.18,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:49:38 - JSON berhasil di-decode.
+2025-07-01 21:49:38 - Data yang akan dimasukkan: T:26.7, H:76, P:973.75, A:334.18, R:0, C:BERAWAN
+2025-07-01 21:49:38 - Statement SQL berhasil disiapkan.
+2025-07-01 21:49:38 - Parameter berhasil di-bind.
+2025-07-01 21:49:38 - SUCCESS: Data berhasil disimpan dengan ID: 79
+2025-07-01 21:49:38 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:49:48 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:49:48 - Koneksi database berhasil.
+2025-07-01 21:49:48 - Data mentah diterima: {"temperature":26.7,"humidity":76,"pressure":973.75,"altitude":334.14,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:49:48 - JSON berhasil di-decode.
+2025-07-01 21:49:48 - Data yang akan dimasukkan: T:26.7, H:76, P:973.75, A:334.14, R:0, C:BERAWAN
+2025-07-01 21:49:48 - Statement SQL berhasil disiapkan.
+2025-07-01 21:49:48 - Parameter berhasil di-bind.
+2025-07-01 21:49:48 - SUCCESS: Data berhasil disimpan dengan ID: 80
+2025-07-01 21:49:48 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:49:58 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:49:58 - Koneksi database berhasil.
+2025-07-01 21:49:58 - Data mentah diterima: {"temperature":26.7,"humidity":76,"pressure":973.75,"altitude":334.19,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:49:58 - JSON berhasil di-decode.
+2025-07-01 21:49:58 - Data yang akan dimasukkan: T:26.7, H:76, P:973.75, A:334.19, R:0, C:BERAWAN
+2025-07-01 21:49:58 - Statement SQL berhasil disiapkan.
+2025-07-01 21:49:58 - Parameter berhasil di-bind.
+2025-07-01 21:49:58 - SUCCESS: Data berhasil disimpan dengan ID: 81
+2025-07-01 21:49:58 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:50:08 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:50:08 - Koneksi database berhasil.
+2025-07-01 21:50:08 - Data mentah diterima: {"temperature":26.7,"humidity":76,"pressure":973.75,"altitude":334.16,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:50:08 - JSON berhasil di-decode.
+2025-07-01 21:50:08 - Data yang akan dimasukkan: T:26.7, H:76, P:973.75, A:334.16, R:0, C:BERAWAN
+2025-07-01 21:50:08 - Statement SQL berhasil disiapkan.
+2025-07-01 21:50:08 - Parameter berhasil di-bind.
+2025-07-01 21:50:08 - SUCCESS: Data berhasil disimpan dengan ID: 82
+2025-07-01 21:50:08 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:50:18 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:50:18 - Koneksi database berhasil.
+2025-07-01 21:50:18 - Data mentah diterima: {"temperature":26.7,"humidity":76,"pressure":973.76,"altitude":334.11,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:50:18 - JSON berhasil di-decode.
+2025-07-01 21:50:18 - Data yang akan dimasukkan: T:26.7, H:76, P:973.76, A:334.11, R:0, C:BERAWAN
+2025-07-01 21:50:18 - Statement SQL berhasil disiapkan.
+2025-07-01 21:50:18 - Parameter berhasil di-bind.
+2025-07-01 21:50:18 - SUCCESS: Data berhasil disimpan dengan ID: 83
+2025-07-01 21:50:18 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:50:28 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:50:28 - Koneksi database berhasil.
+2025-07-01 21:50:28 - Data mentah diterima: {"temperature":26.7,"humidity":76,"pressure":973.76,"altitude":334.12,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:50:28 - JSON berhasil di-decode.
+2025-07-01 21:50:28 - Data yang akan dimasukkan: T:26.7, H:76, P:973.76, A:334.12, R:0, C:BERAWAN
+2025-07-01 21:50:28 - Statement SQL berhasil disiapkan.
+2025-07-01 21:50:28 - Parameter berhasil di-bind.
+2025-07-01 21:50:28 - SUCCESS: Data berhasil disimpan dengan ID: 84
+2025-07-01 21:50:28 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:50:38 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:50:38 - Koneksi database berhasil.
+2025-07-01 21:50:38 - Data mentah diterima: {"temperature":26.7,"humidity":76,"pressure":973.75,"altitude":334.21,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:50:38 - JSON berhasil di-decode.
+2025-07-01 21:50:38 - Data yang akan dimasukkan: T:26.7, H:76, P:973.75, A:334.21, R:0, C:BERAWAN
+2025-07-01 21:50:38 - Statement SQL berhasil disiapkan.
+2025-07-01 21:50:38 - Parameter berhasil di-bind.
+2025-07-01 21:50:38 - SUCCESS: Data berhasil disimpan dengan ID: 85
+2025-07-01 21:50:38 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:50:48 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:50:48 - Koneksi database berhasil.
+2025-07-01 21:50:48 - Data mentah diterima: {"temperature":26.7,"humidity":76,"pressure":973.75,"altitude":334.22,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:50:48 - JSON berhasil di-decode.
+2025-07-01 21:50:48 - Data yang akan dimasukkan: T:26.7, H:76, P:973.75, A:334.22, R:0, C:BERAWAN
+2025-07-01 21:50:48 - Statement SQL berhasil disiapkan.
+2025-07-01 21:50:48 - Parameter berhasil di-bind.
+2025-07-01 21:50:48 - SUCCESS: Data berhasil disimpan dengan ID: 86
+2025-07-01 21:50:48 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:50:58 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:50:58 - Koneksi database berhasil.
+2025-07-01 21:50:58 - Data mentah diterima: {"temperature":26.7,"humidity":76,"pressure":973.75,"altitude":334.22,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:50:58 - JSON berhasil di-decode.
+2025-07-01 21:50:58 - Data yang akan dimasukkan: T:26.7, H:76, P:973.75, A:334.22, R:0, C:BERAWAN
+2025-07-01 21:50:58 - Statement SQL berhasil disiapkan.
+2025-07-01 21:50:58 - Parameter berhasil di-bind.
+2025-07-01 21:50:58 - SUCCESS: Data berhasil disimpan dengan ID: 87
+2025-07-01 21:50:58 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:51:08 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:51:08 - Koneksi database berhasil.
+2025-07-01 21:51:08 - Data mentah diterima: {"temperature":26.7,"humidity":76,"pressure":973.74,"altitude":334.24,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:51:08 - JSON berhasil di-decode.
+2025-07-01 21:51:08 - Data yang akan dimasukkan: T:26.7, H:76, P:973.74, A:334.24, R:0, C:BERAWAN
+2025-07-01 21:51:08 - Statement SQL berhasil disiapkan.
+2025-07-01 21:51:08 - Parameter berhasil di-bind.
+2025-07-01 21:51:08 - SUCCESS: Data berhasil disimpan dengan ID: 88
+2025-07-01 21:51:08 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:51:18 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:51:18 - Koneksi database berhasil.
+2025-07-01 21:51:18 - Data mentah diterima: {"temperature":27,"humidity":76,"pressure":973.74,"altitude":334.3,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:51:18 - JSON berhasil di-decode.
+2025-07-01 21:51:18 - Data yang akan dimasukkan: T:27, H:76, P:973.74, A:334.3, R:0, C:BERAWAN
+2025-07-01 21:51:18 - Statement SQL berhasil disiapkan.
+2025-07-01 21:51:18 - Parameter berhasil di-bind.
+2025-07-01 21:51:18 - SUCCESS: Data berhasil disimpan dengan ID: 89
+2025-07-01 21:51:18 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:51:28 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:51:28 - Koneksi database berhasil.
+2025-07-01 21:51:28 - Data mentah diterima: {"temperature":27.1,"humidity":76,"pressure":973.73,"altitude":334.35,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:51:28 - JSON berhasil di-decode.
+2025-07-01 21:51:28 - Data yang akan dimasukkan: T:27.1, H:76, P:973.73, A:334.35, R:0, C:BERAWAN
+2025-07-01 21:51:28 - Statement SQL berhasil disiapkan.
+2025-07-01 21:51:28 - Parameter berhasil di-bind.
+2025-07-01 21:51:28 - SUCCESS: Data berhasil disimpan dengan ID: 90
+2025-07-01 21:51:28 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:51:38 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:51:38 - Koneksi database berhasil.
+2025-07-01 21:51:38 - Data mentah diterima: {"temperature":27.1,"humidity":76,"pressure":973.73,"altitude":334.38,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:51:38 - JSON berhasil di-decode.
+2025-07-01 21:51:38 - Data yang akan dimasukkan: T:27.1, H:76, P:973.73, A:334.38, R:0, C:BERAWAN
+2025-07-01 21:51:38 - Statement SQL berhasil disiapkan.
+2025-07-01 21:51:38 - Parameter berhasil di-bind.
+2025-07-01 21:51:38 - SUCCESS: Data berhasil disimpan dengan ID: 91
+2025-07-01 21:51:38 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:51:48 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:51:48 - Koneksi database berhasil.
+2025-07-01 21:51:48 - Data mentah diterima: {"temperature":27.1,"humidity":76,"pressure":973.73,"altitude":334.38,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:51:48 - JSON berhasil di-decode.
+2025-07-01 21:51:48 - Data yang akan dimasukkan: T:27.1, H:76, P:973.73, A:334.38, R:0, C:BERAWAN
+2025-07-01 21:51:48 - Statement SQL berhasil disiapkan.
+2025-07-01 21:51:48 - Parameter berhasil di-bind.
+2025-07-01 21:51:48 - SUCCESS: Data berhasil disimpan dengan ID: 92
+2025-07-01 21:51:48 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:51:58 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:51:58 - Koneksi database berhasil.
+2025-07-01 21:51:58 - Data mentah diterima: {"temperature":27.1,"humidity":76,"pressure":973.73,"altitude":334.39,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:51:58 - JSON berhasil di-decode.
+2025-07-01 21:51:58 - Data yang akan dimasukkan: T:27.1, H:76, P:973.73, A:334.39, R:0, C:BERAWAN
+2025-07-01 21:51:58 - Statement SQL berhasil disiapkan.
+2025-07-01 21:51:58 - Parameter berhasil di-bind.
+2025-07-01 21:51:58 - SUCCESS: Data berhasil disimpan dengan ID: 93
+2025-07-01 21:51:58 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:52:08 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:52:08 - Koneksi database berhasil.
+2025-07-01 21:52:08 - Data mentah diterima: {"temperature":27.1,"humidity":76,"pressure":973.72,"altitude":334.43,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:52:08 - JSON berhasil di-decode.
+2025-07-01 21:52:08 - Data yang akan dimasukkan: T:27.1, H:76, P:973.72, A:334.43, R:0, C:BERAWAN
+2025-07-01 21:52:08 - Statement SQL berhasil disiapkan.
+2025-07-01 21:52:08 - Parameter berhasil di-bind.
+2025-07-01 21:52:08 - SUCCESS: Data berhasil disimpan dengan ID: 94
+2025-07-01 21:52:08 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:52:18 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:52:18 - Koneksi database berhasil.
+2025-07-01 21:52:18 - Data mentah diterima: {"temperature":27.1,"humidity":75,"pressure":973.72,"altitude":334.45,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:52:18 - JSON berhasil di-decode.
+2025-07-01 21:52:18 - Data yang akan dimasukkan: T:27.1, H:75, P:973.72, A:334.45, R:0, C:BERAWAN
+2025-07-01 21:52:18 - Statement SQL berhasil disiapkan.
+2025-07-01 21:52:18 - Parameter berhasil di-bind.
+2025-07-01 21:52:18 - SUCCESS: Data berhasil disimpan dengan ID: 95
+2025-07-01 21:52:18 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:52:28 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:52:28 - Koneksi database berhasil.
+2025-07-01 21:52:28 - Data mentah diterima: {"temperature":27.1,"humidity":75,"pressure":973.72,"altitude":334.46,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:52:28 - JSON berhasil di-decode.
+2025-07-01 21:52:28 - Data yang akan dimasukkan: T:27.1, H:75, P:973.72, A:334.46, R:0, C:BERAWAN
+2025-07-01 21:52:28 - Statement SQL berhasil disiapkan.
+2025-07-01 21:52:28 - Parameter berhasil di-bind.
+2025-07-01 21:52:28 - SUCCESS: Data berhasil disimpan dengan ID: 96
+2025-07-01 21:52:28 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:52:38 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:52:38 - Koneksi database berhasil.
+2025-07-01 21:52:38 - Data mentah diterima: {"temperature":27.1,"humidity":76,"pressure":973.72,"altitude":334.42,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:52:38 - JSON berhasil di-decode.
+2025-07-01 21:52:38 - Data yang akan dimasukkan: T:27.1, H:76, P:973.72, A:334.42, R:0, C:BERAWAN
+2025-07-01 21:52:38 - Statement SQL berhasil disiapkan.
+2025-07-01 21:52:38 - Parameter berhasil di-bind.
+2025-07-01 21:52:38 - SUCCESS: Data berhasil disimpan dengan ID: 97
+2025-07-01 21:52:38 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:52:48 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:52:48 - Koneksi database berhasil.
+2025-07-01 21:52:48 - Data mentah diterima: {"temperature":27.1,"humidity":76,"pressure":973.71,"altitude":334.53,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:52:48 - JSON berhasil di-decode.
+2025-07-01 21:52:48 - Data yang akan dimasukkan: T:27.1, H:76, P:973.71, A:334.53, R:0, C:BERAWAN
+2025-07-01 21:52:48 - Statement SQL berhasil disiapkan.
+2025-07-01 21:52:48 - Parameter berhasil di-bind.
+2025-07-01 21:52:48 - SUCCESS: Data berhasil disimpan dengan ID: 98
+2025-07-01 21:52:48 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:52:58 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:52:58 - Koneksi database berhasil.
+2025-07-01 21:52:58 - Data mentah diterima: {"temperature":27.1,"humidity":76,"pressure":973.71,"altitude":334.51,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:52:58 - JSON berhasil di-decode.
+2025-07-01 21:52:58 - Data yang akan dimasukkan: T:27.1, H:76, P:973.71, A:334.51, R:0, C:BERAWAN
+2025-07-01 21:52:58 - Statement SQL berhasil disiapkan.
+2025-07-01 21:52:58 - Parameter berhasil di-bind.
+2025-07-01 21:52:58 - SUCCESS: Data berhasil disimpan dengan ID: 99
+2025-07-01 21:52:58 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:53:08 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:53:08 - Koneksi database berhasil.
+2025-07-01 21:53:08 - Data mentah diterima: {"temperature":27.1,"humidity":76,"pressure":973.71,"altitude":334.54,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:53:08 - JSON berhasil di-decode.
+2025-07-01 21:53:08 - Data yang akan dimasukkan: T:27.1, H:76, P:973.71, A:334.54, R:0, C:BERAWAN
+2025-07-01 21:53:08 - Statement SQL berhasil disiapkan.
+2025-07-01 21:53:08 - Parameter berhasil di-bind.
+2025-07-01 21:53:08 - SUCCESS: Data berhasil disimpan dengan ID: 100
+2025-07-01 21:53:08 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:53:18 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:53:18 - Koneksi database berhasil.
+2025-07-01 21:53:18 - Data mentah diterima: {"temperature":27.1,"humidity":76,"pressure":973.7,"altitude":334.58,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:53:18 - JSON berhasil di-decode.
+2025-07-01 21:53:18 - Data yang akan dimasukkan: T:27.1, H:76, P:973.7, A:334.58, R:0, C:BERAWAN
+2025-07-01 21:53:18 - Statement SQL berhasil disiapkan.
+2025-07-01 21:53:18 - Parameter berhasil di-bind.
+2025-07-01 21:53:18 - SUCCESS: Data berhasil disimpan dengan ID: 101
+2025-07-01 21:53:18 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:53:28 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:53:28 - Koneksi database berhasil.
+2025-07-01 21:53:28 - Data mentah diterima: {"temperature":27.1,"humidity":76,"pressure":973.7,"altitude":334.64,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:53:28 - JSON berhasil di-decode.
+2025-07-01 21:53:28 - Data yang akan dimasukkan: T:27.1, H:76, P:973.7, A:334.64, R:0, C:BERAWAN
+2025-07-01 21:53:28 - Statement SQL berhasil disiapkan.
+2025-07-01 21:53:28 - Parameter berhasil di-bind.
+2025-07-01 21:53:28 - SUCCESS: Data berhasil disimpan dengan ID: 102
+2025-07-01 21:53:28 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:53:38 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:53:38 - Koneksi database berhasil.
+2025-07-01 21:53:38 - Data mentah diterima: {"temperature":27.1,"humidity":76,"pressure":973.7,"altitude":334.59,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:53:38 - JSON berhasil di-decode.
+2025-07-01 21:53:38 - Data yang akan dimasukkan: T:27.1, H:76, P:973.7, A:334.59, R:0, C:BERAWAN
+2025-07-01 21:53:38 - Statement SQL berhasil disiapkan.
+2025-07-01 21:53:38 - Parameter berhasil di-bind.
+2025-07-01 21:53:38 - SUCCESS: Data berhasil disimpan dengan ID: 103
+2025-07-01 21:53:38 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:53:48 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:53:48 - Koneksi database berhasil.
+2025-07-01 21:53:48 - Data mentah diterima: {"temperature":27.1,"humidity":76,"pressure":973.7,"altitude":334.6,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:53:48 - JSON berhasil di-decode.
+2025-07-01 21:53:48 - Data yang akan dimasukkan: T:27.1, H:76, P:973.7, A:334.6, R:0, C:BERAWAN
+2025-07-01 21:53:48 - Statement SQL berhasil disiapkan.
+2025-07-01 21:53:48 - Parameter berhasil di-bind.
+2025-07-01 21:53:48 - SUCCESS: Data berhasil disimpan dengan ID: 104
+2025-07-01 21:53:48 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:53:58 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:53:58 - Koneksi database berhasil.
+2025-07-01 21:53:58 - Data mentah diterima: {"temperature":27.1,"humidity":76,"pressure":973.7,"altitude":334.62,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:53:58 - JSON berhasil di-decode.
+2025-07-01 21:53:58 - Data yang akan dimasukkan: T:27.1, H:76, P:973.7, A:334.62, R:0, C:BERAWAN
+2025-07-01 21:53:58 - Statement SQL berhasil disiapkan.
+2025-07-01 21:53:58 - Parameter berhasil di-bind.
+2025-07-01 21:53:58 - SUCCESS: Data berhasil disimpan dengan ID: 105
+2025-07-01 21:53:58 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:54:08 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:54:08 - Koneksi database berhasil.
+2025-07-01 21:54:08 - Data mentah diterima: {"temperature":27.1,"humidity":76,"pressure":973.69,"altitude":334.74,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:54:08 - JSON berhasil di-decode.
+2025-07-01 21:54:08 - Data yang akan dimasukkan: T:27.1, H:76, P:973.69, A:334.74, R:0, C:BERAWAN
+2025-07-01 21:54:08 - Statement SQL berhasil disiapkan.
+2025-07-01 21:54:08 - Parameter berhasil di-bind.
+2025-07-01 21:54:08 - SUCCESS: Data berhasil disimpan dengan ID: 106
+2025-07-01 21:54:08 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:54:18 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:54:18 - Koneksi database berhasil.
+2025-07-01 21:54:18 - Data mentah diterima: {"temperature":27.1,"humidity":76,"pressure":973.7,"altitude":334.65,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:54:18 - JSON berhasil di-decode.
+2025-07-01 21:54:18 - Data yang akan dimasukkan: T:27.1, H:76, P:973.7, A:334.65, R:0, C:BERAWAN
+2025-07-01 21:54:18 - Statement SQL berhasil disiapkan.
+2025-07-01 21:54:18 - Parameter berhasil di-bind.
+2025-07-01 21:54:18 - SUCCESS: Data berhasil disimpan dengan ID: 107
+2025-07-01 21:54:18 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:54:28 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:54:28 - Koneksi database berhasil.
+2025-07-01 21:54:28 - Data mentah diterima: {"temperature":27.1,"humidity":76,"pressure":973.69,"altitude":334.67,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:54:28 - JSON berhasil di-decode.
+2025-07-01 21:54:28 - Data yang akan dimasukkan: T:27.1, H:76, P:973.69, A:334.67, R:0, C:BERAWAN
+2025-07-01 21:54:28 - Statement SQL berhasil disiapkan.
+2025-07-01 21:54:28 - Parameter berhasil di-bind.
+2025-07-01 21:54:28 - SUCCESS: Data berhasil disimpan dengan ID: 108
+2025-07-01 21:54:28 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:54:38 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:54:38 - Koneksi database berhasil.
+2025-07-01 21:54:38 - Data mentah diterima: {"temperature":27.1,"humidity":76,"pressure":973.69,"altitude":334.71,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:54:38 - JSON berhasil di-decode.
+2025-07-01 21:54:38 - Data yang akan dimasukkan: T:27.1, H:76, P:973.69, A:334.71, R:0, C:BERAWAN
+2025-07-01 21:54:38 - Statement SQL berhasil disiapkan.
+2025-07-01 21:54:38 - Parameter berhasil di-bind.
+2025-07-01 21:54:38 - SUCCESS: Data berhasil disimpan dengan ID: 109
+2025-07-01 21:54:38 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:54:48 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:54:48 - Koneksi database berhasil.
+2025-07-01 21:54:48 - Data mentah diterima: {"temperature":27.1,"humidity":76,"pressure":973.68,"altitude":334.82,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:54:48 - JSON berhasil di-decode.
+2025-07-01 21:54:48 - Data yang akan dimasukkan: T:27.1, H:76, P:973.68, A:334.82, R:0, C:BERAWAN
+2025-07-01 21:54:48 - Statement SQL berhasil disiapkan.
+2025-07-01 21:54:48 - Parameter berhasil di-bind.
+2025-07-01 21:54:48 - SUCCESS: Data berhasil disimpan dengan ID: 110
+2025-07-01 21:54:48 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:54:58 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:54:58 - Koneksi database berhasil.
+2025-07-01 21:54:58 - Data mentah diterima: {"temperature":27.1,"humidity":76,"pressure":973.68,"altitude":334.81,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:54:58 - JSON berhasil di-decode.
+2025-07-01 21:54:58 - Data yang akan dimasukkan: T:27.1, H:76, P:973.68, A:334.81, R:0, C:BERAWAN
+2025-07-01 21:54:58 - Statement SQL berhasil disiapkan.
+2025-07-01 21:54:58 - Parameter berhasil di-bind.
+2025-07-01 21:54:58 - SUCCESS: Data berhasil disimpan dengan ID: 111
+2025-07-01 21:54:58 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:55:11 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:55:11 - Koneksi database berhasil.
+2025-07-01 21:55:11 - Data mentah diterima: {"temperature":27.1,"humidity":76,"pressure":973.68,"altitude":334.8,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:55:11 - JSON berhasil di-decode.
+2025-07-01 21:55:11 - Data yang akan dimasukkan: T:27.1, H:76, P:973.68, A:334.8, R:0, C:BERAWAN
+2025-07-01 21:55:11 - Statement SQL berhasil disiapkan.
+2025-07-01 21:55:11 - Parameter berhasil di-bind.
+2025-07-01 21:55:11 - SUCCESS: Data berhasil disimpan dengan ID: 112
+2025-07-01 21:55:11 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:55:18 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:55:18 - Koneksi database berhasil.
+2025-07-01 21:55:18 - Data mentah diterima: {"temperature":27.1,"humidity":76,"pressure":973.68,"altitude":334.76,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:55:18 - JSON berhasil di-decode.
+2025-07-01 21:55:18 - Data yang akan dimasukkan: T:27.1, H:76, P:973.68, A:334.76, R:0, C:BERAWAN
+2025-07-01 21:55:18 - Statement SQL berhasil disiapkan.
+2025-07-01 21:55:18 - Parameter berhasil di-bind.
+2025-07-01 21:55:18 - SUCCESS: Data berhasil disimpan dengan ID: 113
+2025-07-01 21:55:18 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:55:28 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:55:28 - Koneksi database berhasil.
+2025-07-01 21:55:28 - Data mentah diterima: {"temperature":26.7,"humidity":75,"pressure":973.68,"altitude":334.76,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:55:28 - JSON berhasil di-decode.
+2025-07-01 21:55:28 - Data yang akan dimasukkan: T:26.7, H:75, P:973.68, A:334.76, R:0, C:BERAWAN
+2025-07-01 21:55:28 - Statement SQL berhasil disiapkan.
+2025-07-01 21:55:28 - Parameter berhasil di-bind.
+2025-07-01 21:55:28 - SUCCESS: Data berhasil disimpan dengan ID: 114
+2025-07-01 21:55:28 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:56:04 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:56:04 - Koneksi database berhasil.
+2025-07-01 21:56:04 - Data mentah diterima: {"temperature":26.8,"humidity":75,"pressure":973.67,"altitude":334.84,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:56:04 - JSON berhasil di-decode.
+2025-07-01 21:56:04 - Data yang akan dimasukkan: T:26.8, H:75, P:973.67, A:334.84, R:0, C:BERAWAN
+2025-07-01 21:56:04 - Statement SQL berhasil disiapkan.
+2025-07-01 21:56:04 - Parameter berhasil di-bind.
+2025-07-01 21:56:04 - SUCCESS: Data berhasil disimpan dengan ID: 115
+2025-07-01 21:56:04 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:56:14 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:56:14 - Koneksi database berhasil.
+2025-07-01 21:56:14 - Data mentah diterima: {"temperature":26.7,"humidity":74,"pressure":973.69,"altitude":334.7,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:56:14 - JSON berhasil di-decode.
+2025-07-01 21:56:14 - Data yang akan dimasukkan: T:26.7, H:74, P:973.69, A:334.7, R:0, C:BERAWAN
+2025-07-01 21:56:14 - Statement SQL berhasil disiapkan.
+2025-07-01 21:56:14 - Parameter berhasil di-bind.
+2025-07-01 21:56:14 - SUCCESS: Data berhasil disimpan dengan ID: 116
+2025-07-01 21:56:14 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:56:23 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:56:23 - Koneksi database berhasil.
+2025-07-01 21:56:23 - Data mentah diterima: {"temperature":26.7,"humidity":75,"pressure":973.7,"altitude":334.64,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:56:23 - JSON berhasil di-decode.
+2025-07-01 21:56:23 - Data yang akan dimasukkan: T:26.7, H:75, P:973.7, A:334.64, R:0, C:BERAWAN
+2025-07-01 21:56:23 - Statement SQL berhasil disiapkan.
+2025-07-01 21:56:23 - Parameter berhasil di-bind.
+2025-07-01 21:56:23 - SUCCESS: Data berhasil disimpan dengan ID: 117
+2025-07-01 21:56:23 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:56:33 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:56:33 - Koneksi database berhasil.
+2025-07-01 21:56:33 - Data mentah diterima: {"temperature":26.7,"humidity":75,"pressure":973.69,"altitude":334.69,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:56:33 - JSON berhasil di-decode.
+2025-07-01 21:56:33 - Data yang akan dimasukkan: T:26.7, H:75, P:973.69, A:334.69, R:0, C:BERAWAN
+2025-07-01 21:56:33 - Statement SQL berhasil disiapkan.
+2025-07-01 21:56:33 - Parameter berhasil di-bind.
+2025-07-01 21:56:33 - SUCCESS: Data berhasil disimpan dengan ID: 118
+2025-07-01 21:56:33 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:56:43 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:56:43 - Koneksi database berhasil.
+2025-07-01 21:56:43 - Data mentah diterima: {"temperature":26.7,"humidity":75,"pressure":973.69,"altitude":334.7,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:56:43 - JSON berhasil di-decode.
+2025-07-01 21:56:43 - Data yang akan dimasukkan: T:26.7, H:75, P:973.69, A:334.7, R:0, C:BERAWAN
+2025-07-01 21:56:43 - Statement SQL berhasil disiapkan.
+2025-07-01 21:56:43 - Parameter berhasil di-bind.
+2025-07-01 21:56:43 - SUCCESS: Data berhasil disimpan dengan ID: 119
+2025-07-01 21:56:43 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:56:53 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:56:53 - Koneksi database berhasil.
+2025-07-01 21:56:53 - Data mentah diterima: {"temperature":26.7,"humidity":75,"pressure":973.69,"altitude":334.72,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:56:53 - JSON berhasil di-decode.
+2025-07-01 21:56:53 - Data yang akan dimasukkan: T:26.7, H:75, P:973.69, A:334.72, R:0, C:BERAWAN
+2025-07-01 21:56:53 - Statement SQL berhasil disiapkan.
+2025-07-01 21:56:53 - Parameter berhasil di-bind.
+2025-07-01 21:56:53 - SUCCESS: Data berhasil disimpan dengan ID: 120
+2025-07-01 21:56:53 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:57:03 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:57:03 - Koneksi database berhasil.
+2025-07-01 21:57:03 - Data mentah diterima: {"temperature":26.7,"humidity":75,"pressure":973.68,"altitude":334.78,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:57:03 - JSON berhasil di-decode.
+2025-07-01 21:57:03 - Data yang akan dimasukkan: T:26.7, H:75, P:973.68, A:334.78, R:0, C:BERAWAN
+2025-07-01 21:57:03 - Statement SQL berhasil disiapkan.
+2025-07-01 21:57:03 - Parameter berhasil di-bind.
+2025-07-01 21:57:03 - SUCCESS: Data berhasil disimpan dengan ID: 121
+2025-07-01 21:57:03 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:57:13 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:57:13 - Koneksi database berhasil.
+2025-07-01 21:57:13 - Data mentah diterima: {"temperature":26.7,"humidity":75,"pressure":973.69,"altitude":334.73,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:57:13 - JSON berhasil di-decode.
+2025-07-01 21:57:13 - Data yang akan dimasukkan: T:26.7, H:75, P:973.69, A:334.73, R:0, C:BERAWAN
+2025-07-01 21:57:13 - Statement SQL berhasil disiapkan.
+2025-07-01 21:57:13 - Parameter berhasil di-bind.
+2025-07-01 21:57:13 - SUCCESS: Data berhasil disimpan dengan ID: 122
+2025-07-01 21:57:13 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:57:23 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:57:23 - Koneksi database berhasil.
+2025-07-01 21:57:23 - Data mentah diterima: {"temperature":26.8,"humidity":75,"pressure":973.69,"altitude":334.73,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:57:23 - JSON berhasil di-decode.
+2025-07-01 21:57:23 - Data yang akan dimasukkan: T:26.8, H:75, P:973.69, A:334.73, R:0, C:BERAWAN
+2025-07-01 21:57:23 - Statement SQL berhasil disiapkan.
+2025-07-01 21:57:23 - Parameter berhasil di-bind.
+2025-07-01 21:57:23 - SUCCESS: Data berhasil disimpan dengan ID: 123
+2025-07-01 21:57:23 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:57:33 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:57:33 - Koneksi database berhasil.
+2025-07-01 21:57:33 - Data mentah diterima: {"temperature":27.1,"humidity":75,"pressure":973.68,"altitude":334.75,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:57:33 - JSON berhasil di-decode.
+2025-07-01 21:57:33 - Data yang akan dimasukkan: T:27.1, H:75, P:973.68, A:334.75, R:0, C:BERAWAN
+2025-07-01 21:57:33 - Statement SQL berhasil disiapkan.
+2025-07-01 21:57:33 - Parameter berhasil di-bind.
+2025-07-01 21:57:33 - SUCCESS: Data berhasil disimpan dengan ID: 124
+2025-07-01 21:57:33 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:57:43 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:57:43 - Koneksi database berhasil.
+2025-07-01 21:57:43 - Data mentah diterima: {"temperature":27.1,"humidity":75,"pressure":973.68,"altitude":334.78,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:57:43 - JSON berhasil di-decode.
+2025-07-01 21:57:43 - Data yang akan dimasukkan: T:27.1, H:75, P:973.68, A:334.78, R:0, C:BERAWAN
+2025-07-01 21:57:43 - Statement SQL berhasil disiapkan.
+2025-07-01 21:57:43 - Parameter berhasil di-bind.
+2025-07-01 21:57:43 - SUCCESS: Data berhasil disimpan dengan ID: 125
+2025-07-01 21:57:43 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:57:53 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:57:53 - Koneksi database berhasil.
+2025-07-01 21:57:53 - Data mentah diterima: {"temperature":27.1,"humidity":75,"pressure":973.69,"altitude":334.71,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:57:53 - JSON berhasil di-decode.
+2025-07-01 21:57:53 - Data yang akan dimasukkan: T:27.1, H:75, P:973.69, A:334.71, R:0, C:BERAWAN
+2025-07-01 21:57:53 - Statement SQL berhasil disiapkan.
+2025-07-01 21:57:53 - Parameter berhasil di-bind.
+2025-07-01 21:57:53 - SUCCESS: Data berhasil disimpan dengan ID: 126
+2025-07-01 21:57:53 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:58:02 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:58:02 - Koneksi database berhasil.
+2025-07-01 21:58:02 - Data mentah diterima: 
+2025-07-01 21:58:02 - ERROR: Data tidak diterima atau format JSON tidak valid.
+2025-07-01 21:58:03 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:58:03 - Koneksi database berhasil.
+2025-07-01 21:58:03 - Data mentah diterima: {"temperature":27.1,"humidity":75,"pressure":973.7,"altitude":334.61,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:58:03 - JSON berhasil di-decode.
+2025-07-01 21:58:03 - Data yang akan dimasukkan: T:27.1, H:75, P:973.7, A:334.61, R:0, C:BERAWAN
+2025-07-01 21:58:03 - Statement SQL berhasil disiapkan.
+2025-07-01 21:58:03 - Parameter berhasil di-bind.
+2025-07-01 21:58:03 - SUCCESS: Data berhasil disimpan dengan ID: 127
+2025-07-01 21:58:03 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:58:13 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:58:13 - Koneksi database berhasil.
+2025-07-01 21:58:13 - Data mentah diterima: {"temperature":27.1,"humidity":75,"pressure":973.7,"altitude":334.65,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:58:13 - JSON berhasil di-decode.
+2025-07-01 21:58:13 - Data yang akan dimasukkan: T:27.1, H:75, P:973.7, A:334.65, R:0, C:BERAWAN
+2025-07-01 21:58:13 - Statement SQL berhasil disiapkan.
+2025-07-01 21:58:13 - Parameter berhasil di-bind.
+2025-07-01 21:58:13 - SUCCESS: Data berhasil disimpan dengan ID: 128
+2025-07-01 21:58:13 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:58:23 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:58:23 - Koneksi database berhasil.
+2025-07-01 21:58:23 - Data mentah diterima: {"temperature":27.1,"humidity":75,"pressure":973.69,"altitude":334.7,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:58:23 - JSON berhasil di-decode.
+2025-07-01 21:58:23 - Data yang akan dimasukkan: T:27.1, H:75, P:973.69, A:334.7, R:0, C:BERAWAN
+2025-07-01 21:58:23 - Statement SQL berhasil disiapkan.
+2025-07-01 21:58:23 - Parameter berhasil di-bind.
+2025-07-01 21:58:23 - SUCCESS: Data berhasil disimpan dengan ID: 129
+2025-07-01 21:58:23 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:58:33 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:58:33 - Koneksi database berhasil.
+2025-07-01 21:58:33 - Data mentah diterima: {"temperature":27.1,"humidity":75,"pressure":973.69,"altitude":334.73,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:58:33 - JSON berhasil di-decode.
+2025-07-01 21:58:33 - Data yang akan dimasukkan: T:27.1, H:75, P:973.69, A:334.73, R:0, C:BERAWAN
+2025-07-01 21:58:33 - Statement SQL berhasil disiapkan.
+2025-07-01 21:58:33 - Parameter berhasil di-bind.
+2025-07-01 21:58:33 - SUCCESS: Data berhasil disimpan dengan ID: 130
+2025-07-01 21:58:33 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:58:43 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:58:43 - Koneksi database berhasil.
+2025-07-01 21:58:43 - Data mentah diterima: {"temperature":27.1,"humidity":75,"pressure":973.68,"altitude":334.78,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:58:43 - JSON berhasil di-decode.
+2025-07-01 21:58:43 - Data yang akan dimasukkan: T:27.1, H:75, P:973.68, A:334.78, R:0, C:BERAWAN
+2025-07-01 21:58:43 - Statement SQL berhasil disiapkan.
+2025-07-01 21:58:43 - Parameter berhasil di-bind.
+2025-07-01 21:58:43 - SUCCESS: Data berhasil disimpan dengan ID: 131
+2025-07-01 21:58:43 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:58:53 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:58:53 - Koneksi database berhasil.
+2025-07-01 21:58:53 - Data mentah diterima: {"temperature":27.1,"humidity":75,"pressure":973.68,"altitude":334.76,"isRaining":true,"condition":"HUJAN"}
+2025-07-01 21:58:53 - JSON berhasil di-decode.
+2025-07-01 21:58:53 - Data yang akan dimasukkan: T:27.1, H:75, P:973.68, A:334.76, R:1, C:HUJAN
+2025-07-01 21:58:53 - Statement SQL berhasil disiapkan.
+2025-07-01 21:58:53 - Parameter berhasil di-bind.
+2025-07-01 21:58:53 - SUCCESS: Data berhasil disimpan dengan ID: 132
+2025-07-01 21:58:53 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:59:07 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:59:07 - Koneksi database berhasil.
+2025-07-01 21:59:07 - Data mentah diterima: {"temperature":27.1,"humidity":75,"pressure":973.69,"altitude":334.72,"isRaining":true,"condition":"HUJAN"}
+2025-07-01 21:59:07 - JSON berhasil di-decode.
+2025-07-01 21:59:07 - Data yang akan dimasukkan: T:27.1, H:75, P:973.69, A:334.72, R:1, C:HUJAN
+2025-07-01 21:59:07 - Statement SQL berhasil disiapkan.
+2025-07-01 21:59:07 - Parameter berhasil di-bind.
+2025-07-01 21:59:07 - SUCCESS: Data berhasil disimpan dengan ID: 133
+2025-07-01 21:59:07 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:59:16 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:59:16 - Koneksi database berhasil.
+2025-07-01 21:59:16 - Data mentah diterima: {"temperature":27.1,"humidity":75,"pressure":973.69,"altitude":334.71,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:59:16 - JSON berhasil di-decode.
+2025-07-01 21:59:16 - Data yang akan dimasukkan: T:27.1, H:75, P:973.69, A:334.71, R:0, C:BERAWAN
+2025-07-01 21:59:16 - Statement SQL berhasil disiapkan.
+2025-07-01 21:59:16 - Parameter berhasil di-bind.
+2025-07-01 21:59:16 - SUCCESS: Data berhasil disimpan dengan ID: 134
+2025-07-01 21:59:16 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:59:36 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:59:36 - Koneksi database berhasil.
+2025-07-01 21:59:36 - Data mentah diterima: {"temperature":26.7,"humidity":74,"pressure":973.69,"altitude":334.7,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:59:36 - JSON berhasil di-decode.
+2025-07-01 21:59:36 - Data yang akan dimasukkan: T:26.7, H:74, P:973.69, A:334.7, R:0, C:BERAWAN
+2025-07-01 21:59:36 - Statement SQL berhasil disiapkan.
+2025-07-01 21:59:36 - Parameter berhasil di-bind.
+2025-07-01 21:59:36 - SUCCESS: Data berhasil disimpan dengan ID: 135
+2025-07-01 21:59:36 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:59:43 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:59:43 - Koneksi database berhasil.
+2025-07-01 21:59:43 - Data mentah diterima: {"temperature":26.7,"humidity":74,"pressure":973.69,"altitude":334.67,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:59:43 - JSON berhasil di-decode.
+2025-07-01 21:59:43 - Data yang akan dimasukkan: T:26.7, H:74, P:973.69, A:334.67, R:0, C:BERAWAN
+2025-07-01 21:59:43 - Statement SQL berhasil disiapkan.
+2025-07-01 21:59:43 - Parameter berhasil di-bind.
+2025-07-01 21:59:43 - SUCCESS: Data berhasil disimpan dengan ID: 136
+2025-07-01 21:59:43 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 21:59:53 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 21:59:53 - Koneksi database berhasil.
+2025-07-01 21:59:53 - Data mentah diterima: {"temperature":26.7,"humidity":75,"pressure":973.69,"altitude":334.68,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 21:59:53 - JSON berhasil di-decode.
+2025-07-01 21:59:53 - Data yang akan dimasukkan: T:26.7, H:75, P:973.69, A:334.68, R:0, C:BERAWAN
+2025-07-01 21:59:53 - Statement SQL berhasil disiapkan.
+2025-07-01 21:59:53 - Parameter berhasil di-bind.
+2025-07-01 21:59:53 - SUCCESS: Data berhasil disimpan dengan ID: 137
+2025-07-01 21:59:53 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 22:00:03 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 22:00:03 - Koneksi database berhasil.
+2025-07-01 22:00:03 - Data mentah diterima: {"temperature":26.7,"humidity":75,"pressure":973.7,"altitude":334.64,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 22:00:03 - JSON berhasil di-decode.
+2025-07-01 22:00:03 - Data yang akan dimasukkan: T:26.7, H:75, P:973.7, A:334.64, R:0, C:BERAWAN
+2025-07-01 22:00:03 - Statement SQL berhasil disiapkan.
+2025-07-01 22:00:03 - Parameter berhasil di-bind.
+2025-07-01 22:00:03 - SUCCESS: Data berhasil disimpan dengan ID: 138
+2025-07-01 22:00:03 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 22:00:13 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 22:00:13 - Koneksi database berhasil.
+2025-07-01 22:00:13 - Data mentah diterima: {"temperature":26.7,"humidity":75,"pressure":973.7,"altitude":334.61,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 22:00:13 - JSON berhasil di-decode.
+2025-07-01 22:00:13 - Data yang akan dimasukkan: T:26.7, H:75, P:973.7, A:334.61, R:0, C:BERAWAN
+2025-07-01 22:00:13 - Statement SQL berhasil disiapkan.
+2025-07-01 22:00:13 - Parameter berhasil di-bind.
+2025-07-01 22:00:13 - SUCCESS: Data berhasil disimpan dengan ID: 139
+2025-07-01 22:00:13 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 22:00:23 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 22:00:23 - Koneksi database berhasil.
+2025-07-01 22:00:23 - Data mentah diterima: {"temperature":26.7,"humidity":75,"pressure":973.7,"altitude":334.65,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 22:00:23 - JSON berhasil di-decode.
+2025-07-01 22:00:23 - Data yang akan dimasukkan: T:26.7, H:75, P:973.7, A:334.65, R:0, C:BERAWAN
+2025-07-01 22:00:23 - Statement SQL berhasil disiapkan.
+2025-07-01 22:00:23 - Parameter berhasil di-bind.
+2025-07-01 22:00:23 - SUCCESS: Data berhasil disimpan dengan ID: 140
+2025-07-01 22:00:23 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 22:00:33 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 22:00:33 - Koneksi database berhasil.
+2025-07-01 22:00:33 - Data mentah diterima: {"temperature":26.7,"humidity":75,"pressure":973.7,"altitude":334.64,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 22:00:33 - JSON berhasil di-decode.
+2025-07-01 22:00:33 - Data yang akan dimasukkan: T:26.7, H:75, P:973.7, A:334.64, R:0, C:BERAWAN
+2025-07-01 22:00:33 - Statement SQL berhasil disiapkan.
+2025-07-01 22:00:33 - Parameter berhasil di-bind.
+2025-07-01 22:00:33 - SUCCESS: Data berhasil disimpan dengan ID: 141
+2025-07-01 22:00:33 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 22:00:43 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 22:00:43 - Koneksi database berhasil.
+2025-07-01 22:00:43 - Data mentah diterima: {"temperature":26.8,"humidity":75,"pressure":973.69,"altitude":334.69,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 22:00:43 - JSON berhasil di-decode.
+2025-07-01 22:00:43 - Data yang akan dimasukkan: T:26.8, H:75, P:973.69, A:334.69, R:0, C:BERAWAN
+2025-07-01 22:00:43 - Statement SQL berhasil disiapkan.
+2025-07-01 22:00:43 - Parameter berhasil di-bind.
+2025-07-01 22:00:43 - SUCCESS: Data berhasil disimpan dengan ID: 142
+2025-07-01 22:00:43 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 22:00:53 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 22:00:53 - Koneksi database berhasil.
+2025-07-01 22:00:53 - Data mentah diterima: {"temperature":26.8,"humidity":75,"pressure":973.69,"altitude":334.67,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 22:00:53 - JSON berhasil di-decode.
+2025-07-01 22:00:53 - Data yang akan dimasukkan: T:26.8, H:75, P:973.69, A:334.67, R:0, C:BERAWAN
+2025-07-01 22:00:53 - Statement SQL berhasil disiapkan.
+2025-07-01 22:00:53 - Parameter berhasil di-bind.
+2025-07-01 22:00:53 - SUCCESS: Data berhasil disimpan dengan ID: 143
+2025-07-01 22:00:53 - Koneksi ditutup. Skrip selesai.
+--------------------
+
+2025-07-01 22:01:03 - Skrip receive_data.php diakses dari IP: 140.213.187.105
+2025-07-01 22:01:03 - Koneksi database berhasil.
+2025-07-01 22:01:03 - Data mentah diterima: {"temperature":26.9,"humidity":75,"pressure":973.69,"altitude":334.69,"isRaining":false,"condition":"BERAWAN"}
+2025-07-01 22:01:03 - JSON berhasil di-decode.
+2025-07-01 22:01:03 - Data yang akan dimasukkan: T:26.9, H:75, P:973.69, A:334.69, R:0, C:BERAWAN
+2025-07-01 22:01:03 - Statement SQL berhasil disiapkan.
+2025-07-01 22:01:03 - Parameter berhasil di-bind.
+2025-07-01 22:01:03 - SUCCESS: Data berhasil disimpan dengan ID: 144
+2025-07-01 22:01:03 - Koneksi ditutup. Skrip selesai.
+--------------------
+

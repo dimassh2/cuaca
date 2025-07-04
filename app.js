@@ -1,9 +1,16 @@
+/**
+ * =================================================
+ * app.js -- VERSI FINAL DENGAN DEBUGGING LENGKAP
+ * =================================================
+ * File ini dimodifikasi untuk menambahkan logging detail dan penanganan error
+ * yang lebih baik untuk menemukan masalah di sisi frontend.
+ */
 document.addEventListener('DOMContentLoaded', () => {
 
+    // Variabel dan referensi DOM tetap sama
     const historyData = [];
     const MAX_HISTORY_POINTS = 200; 
     const MAX_REALTIME_POINTS = 15;
-
     let hasUserInitiatedPlay = false;
 
     const dom = {
@@ -11,16 +18,13 @@ document.addEventListener('DOMContentLoaded', () => {
         weatherCard: document.getElementById('weather-condition-card'),
         iconContainer: document.getElementById('icon-container'),
         weatherText: document.getElementById('weather-condition-text'),
-        
         tempValue: document.getElementById('temp-value'),
         humidityValue: document.getElementById('humidity-value'),
         pressureValue: document.getElementById('pressure-value'),
         altitudeValue: document.getElementById('altitude-value'),
-
         centerCardPlaceholder: document.getElementById('center-card-placeholder'),
         rainVideo: document.getElementById('rain-video'),
         playButtonOverlay: document.getElementById('play-button-overlay'),
-        
         videoControls: document.getElementById('video-controls'),
         progressBar: document.getElementById('progress-bar'),
         currentTimeDisplay: document.getElementById('current-time'),
@@ -29,14 +33,12 @@ document.addEventListener('DOMContentLoaded', () => {
         playIcon: document.getElementById('play-icon'),
         pauseIcon: document.getElementById('pause-icon'),
         stopBtn: document.getElementById('stop-btn'),
-
         historyButton: document.getElementById('history-button'),
         historyModal: document.getElementById('history-modal'),
         closeHistoryModalButton: document.getElementById('close-history-modal-button'),
         historyTableBody: document.getElementById('history-table-body'),
         historyDatePicker: document.getElementById('history-date-picker'),
         filterHistoryButton: document.getElementById('filter-history-button'),
-        
         geminiAdviceButton: document.getElementById('gemini-advice-button'),
         geminiModal: document.getElementById('gemini-modal'),
         geminiModalContent: document.getElementById('gemini-modal-content'),
@@ -60,222 +62,115 @@ document.addEventListener('DOMContentLoaded', () => {
     const historyChart1 = new Chart(document.getElementById('history-chart-1'), { type: 'line', options: chartOptions, data: { datasets: [ { label: 'Suhu', data: [], borderColor: '#e53e3e', backgroundColor: '#e53e3e33' }, { label: 'Lembap', data: [], borderColor: '#4299e1', backgroundColor: '#4299e133' } ]}});
     const historyChart2 = new Chart(document.getElementById('history-chart-2'), { type: 'line', options: dualAxisOptions, data: { datasets: [ { label: 'Tekanan', data: [], yAxisID: 'y', borderColor: '#a0aec0', backgroundColor: '#a0aec033' }, { label: 'MDPL', data: [], yAxisID: 'y1', borderColor: '#e53e3e', backgroundColor: '#e53e3e33' } ]}});
     
+    // Fungsi utama yang berjalan secara periodik
     async function mainLoop() {
+        console.log("mainLoop() dimulai...");
         try {
+            // Memanggil fungsi dari api/sensor.js
             const data = await fetchSensorData();
+            
+            console.log("Data berhasil diterima di mainLoop:", data);
+
+            // Menambahkan data ke array history
             historyData.push(data);
             if (historyData.length > MAX_HISTORY_POINTS) historyData.shift();
+            
             const latestData = historyData[historyData.length - 1];
+            
+            // Memperbarui UI dan Grafik
             updateUI(latestData);
             updateRealtimeCharts();
+
         } catch (error) { 
-            console.error("Gagal mengambil data sensor:", error); 
+            // **DEBUGGING:** Menampilkan error yang ditangkap dari fetchSensorData()
+            console.error("Error di dalam mainLoop, menampilkan 'Koneksi Gagal!'. Error asli:", error); 
             dom.timestamp.textContent = "Koneksi Gagal!";
         }
     }
     
+    // Fungsi untuk memperbarui semua elemen UI dengan data terbaru
     function updateUI(data) {
-        dom.timestamp.textContent = `Update: ${new Date(data.timestamp).toLocaleString('id-ID')}`;
-        dom.tempValue.textContent = data.temperature;
-        dom.humidityValue.textContent = data.humidity;
-        dom.pressureValue.textContent = data.pressure;
-        dom.altitudeValue.textContent = data.altitude;
-        dom.weatherText.textContent = data.condition; 
-
-        if (data.condition === 'HUJAN') {
-            dom.iconContainer.innerHTML = icons.rainy; 
-            showVideoInCard();
-        } else {
-            dom.iconContainer.innerHTML = data.condition === 'CERAH' ? icons.sunny : icons.cloudy;
-            hideVideoInCard();
-        }
-    }
-
-    // --- FUNGSI KONTROL VIDEO ---
-    function updatePlayPauseIcon() {
-        if (dom.rainVideo.paused) {
-            dom.playIcon.classList.remove('hidden');
-            dom.pauseIcon.classList.add('hidden');
-        } else {
-            dom.playIcon.classList.add('hidden');
-            dom.pauseIcon.classList.remove('hidden');
-        }
-    }
-
-    function togglePlayPause() {
-        if (dom.rainVideo.paused) {
-            dom.rainVideo.play();
-        } else {
-            dom.rainVideo.pause();
-        }
-    }
-
-    function stopVideo() {
-        dom.rainVideo.pause();
-        dom.rainVideo.currentTime = 0;
-        dom.playButtonOverlay.classList.remove('hidden');
-        updatePlayPauseIcon();
-    }
-    
-    async function showVideoInCard() {
-        dom.centerCardPlaceholder.classList.add('hidden');
-        dom.rainVideo.classList.remove('hidden');
-        dom.videoControls.classList.remove('hidden');
-        
-        if (hasUserInitiatedPlay) {
-            try {
-                await dom.rainVideo.play();
-            } catch (err) {
-                console.warn("Autoplay was blocked. Showing play button.", err);
-                dom.playButtonOverlay.classList.remove('hidden');
-            }
-        } else {
-            dom.playButtonOverlay.classList.remove('hidden');
-        }
-    }
-
-    function hideVideoInCard() {
-        dom.centerCardPlaceholder.classList.remove('hidden');
-        stopVideo();
-        dom.rainVideo.classList.add('hidden');
-        dom.playButtonOverlay.classList.add('hidden');
-        dom.videoControls.classList.add('hidden');
-    }
-
-    async function fetchGeminiRecommendation() {
-        dom.geminiModalContent.innerHTML = `<p>Meminta saran dari AI...</p>`;
-        const latestData = historyData[historyData.length - 1];
-        if (!latestData) {
-            dom.geminiModalContent.innerHTML = `<p>Data cuaca belum tersedia.</p>`;
-            return;
-        }
         try {
-            const prompt = `Analisa data cuaca berikut: Suhu ${latestData.temperature}°C, Lembap ${latestData.humidity}%, Kondisi ${latestData.condition}. Berdasarkan data ini, berikan rekomendasi aktivitas, pakaian, dan makanan/minuman yang cocok dalam bahasa Indonesia. Tulis jawaban sebagai paragraf biasa yang mengalir alami. JANGAN gunakan tanda bintang, nomor, atau format list apapun. Buatlah seperti percakapan biasa.`;
-            const response = await fetch('./get_gemini_recommendation.php', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ prompt: prompt }) });
-            if (!response.ok) { throw new Error(`HTTP error! status: ${response.status}`); }
-            const result = await response.json();
-            if (result.error) {
-                dom.geminiModalContent.innerHTML = `<p style="color: var(--accent-red);">Error: ${result.error}</p>`;
+            dom.timestamp.textContent = `Update: ${new Date(data.timestamp).toLocaleString('id-ID')}`;
+            dom.tempValue.textContent = data.temperature;
+            dom.humidityValue.textContent = data.humidity;
+            dom.pressureValue.textContent = data.pressure;
+            dom.altitudeValue.textContent = data.altitude;
+            dom.weatherText.textContent = data.condition; 
+
+            if (data.isRaining) { // Menggunakan isRaining (boolean)
+                dom.iconContainer.innerHTML = icons.rainy; 
+                showVideoInCard();
             } else {
-                const cleanText = result.recommendation.replace(/[*#]/g, '').replace(/\n\s*\n/g, '</p><p>');
-                dom.geminiModalContent.innerHTML = `<p>${cleanText}</p>`;
+                dom.iconContainer.innerHTML = data.condition === 'CERAH' ? icons.sunny : icons.cloudy;
+                hideVideoInCard();
             }
-        } catch (error) {
-            console.error("Gagal mendapatkan rekomendasi:", error);
-            dom.geminiModalContent.innerHTML = `<p style="color: var(--accent-red);">Gagal memuat rekomendasi. Cek koneksi & API Key.</p>`;
+        } catch (uiError) {
+            console.error("Terjadi error saat memperbarui UI:", uiError);
         }
     }
 
-    // --- EVENT LISTENERS ---
-    function formatTime(seconds) {
-        const minutes = Math.floor(seconds / 60);
-        const secs = Math.floor(seconds % 60);
-        return `${String(minutes).padStart(2, '0')}:${String(secs).padStart(2, '0')}`;
-    }
-    
-    dom.playButtonOverlay.addEventListener('click', () => {
-        dom.rainVideo.play();
-        hasUserInitiatedPlay = true;
-    });
-
-    dom.playPauseBtn.addEventListener('click', togglePlayPause);
-    
-    dom.stopBtn.addEventListener('click', stopVideo);
-
-    dom.rainVideo.addEventListener('play', () => {
-        dom.playButtonOverlay.classList.add('hidden');
-        updatePlayPauseIcon();
-    });
-    
-    dom.rainVideo.addEventListener('pause', () => {
-        updatePlayPauseIcon();
-    });
-
-    dom.rainVideo.addEventListener('loadedmetadata', () => {
-        dom.progressBar.max = dom.rainVideo.duration;
-        dom.totalTimeDisplay.textContent = formatTime(dom.rainVideo.duration);
-    });
-
-    dom.rainVideo.addEventListener('timeupdate', () => {
-        dom.progressBar.value = dom.rainVideo.currentTime;
-        dom.currentTimeDisplay.textContent = formatTime(dom.rainVideo.currentTime);
-    });
-
-    dom.rainVideo.addEventListener('ended', () => {
-        dom.playButtonOverlay.classList.remove('hidden');
-        updatePlayPauseIcon();
-    });
-    
-    dom.progressBar.addEventListener('input', () => {
-        dom.rainVideo.currentTime = dom.progressBar.value;
-    });
-
-    dom.historyButton.addEventListener('click', () => {
-        const today = new Date().toISOString().split('T')[0];
-        dom.historyDatePicker.value = today;
-        updateHistoryView(today);
-        dom.historyModal.classList.remove('hidden');
-    });
-    dom.closeHistoryModalButton.addEventListener('click', () => dom.historyModal.classList.add('hidden'));
-    dom.geminiAdviceButton.addEventListener('click', () => {
-        dom.geminiModal.classList.remove('hidden');
-        fetchGeminiRecommendation();
-    });
-    dom.closeGeminiModalButton.addEventListener('click', () => dom.geminiModal.classList.add('hidden'));
-    dom.filterHistoryButton.addEventListener('click', () => {
-        const selectedDate = dom.historyDatePicker.value;
-        if(selectedDate) updateHistoryView(selectedDate);
-    });
-
-    // --- Fungsi Lain (tidak berubah) ---
+    // Fungsi-fungsi lain (kontrol video, event listener, dll.) tetap sama
+    // ... (Semua fungsi lain dari app.js Anda ditempel di sini)
+    function updatePlayPauseIcon(){if(dom.rainVideo.paused){dom.playIcon.classList.remove('hidden');dom.pauseIcon.classList.add('hidden')}else{dom.playIcon.classList.add('hidden');dom.pauseIcon.classList.remove('hidden')}}
+    function togglePlayPause(){if(dom.rainVideo.paused){dom.rainVideo.play()}else{dom.rainVideo.pause()}}
+    function stopVideo(){dom.rainVideo.pause();dom.rainVideo.currentTime=0;dom.playButtonOverlay.classList.remove('hidden');updatePlayPauseIcon()}
+    async function showVideoInCard(){dom.centerCardPlaceholder.classList.add('hidden');dom.rainVideo.classList.remove('hidden');dom.videoControls.classList.remove('hidden');if(hasUserInitiatedPlay){try{await dom.rainVideo.play()}catch(err){console.warn("Autoplay was blocked. Showing play button.",err);dom.playButtonOverlay.classList.remove('hidden')}}else{dom.playButtonOverlay.classList.remove('hidden')}}
+    function hideVideoInCard(){dom.centerCardPlaceholder.classList.remove('hidden');stopVideo();dom.rainVideo.classList.add('hidden');dom.playButtonOverlay.classList.add('hidden');dom.videoControls.classList.add('hidden')}
+    async function fetchGeminiRecommendation(){dom.geminiModalContent.innerHTML=`<p>Meminta saran dari AI...</p>`;const latestData=historyData[historyData.length-1];if(!latestData){dom.geminiModalContent.innerHTML=`<p>Data cuaca belum tersedia.</p>`;return}try{const prompt=`Analisa data cuaca berikut: Suhu ${latestData.temperature}°C, Lembap ${latestData.humidity}%, Kondisi ${latestData.condition}. Berdasarkan data ini, berikan rekomendasi aktivitas, pakaian, dan makanan/minuman yang cocok dalam bahasa Indonesia. Tulis jawaban sebagai paragraf biasa yang mengalir alami. JANGAN gunakan tanda bintang, nomor, atau format list apapun. Buatlah seperti percakapan biasa.`;const response=await fetch('./get_gemini_recommendation.php',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({prompt:prompt})});if(!response.ok){throw new Error(`HTTP error! status: ${response.status}`)}const result=await response.json();if(result.error){dom.geminiModalContent.innerHTML=`<p style="color: var(--accent-red);">Error: ${result.error}</p>`}else{const cleanText=result.recommendation.replace(/[*#]/g,'').replace(/\n\s*\n/g,'</p><p>');dom.geminiModalContent.innerHTML=`<p>${cleanText}</p>`}}catch(error){console.error("Gagal mendapatkan rekomendasi:",error);dom.geminiModalContent.innerHTML=`<p style="color: var(--accent-red);">Gagal memuat rekomendasi. Cek koneksi & API Key.</p>`}}
+    function formatTime(seconds){const minutes=Math.floor(seconds/60);const secs=Math.floor(seconds%60);return`${String(minutes).padStart(2,'0')}:${String(secs).padStart(2,'0')}`}
+    dom.playButtonOverlay.addEventListener('click',()=>{dom.rainVideo.play();hasUserInitiatedPlay=true});
+    dom.playPauseBtn.addEventListener('click',togglePlayPause);
+    dom.stopBtn.addEventListener('click',stopVideo);
+    dom.rainVideo.addEventListener('play',()=>{dom.playButtonOverlay.classList.add('hidden');updatePlayPauseIcon()});
+    dom.rainVideo.addEventListener('pause',()=>{updatePlayPauseIcon()});
+    dom.rainVideo.addEventListener('loadedmetadata',()=>{dom.progressBar.max=dom.rainVideo.duration;dom.totalTimeDisplay.textContent=formatTime(dom.rainVideo.duration)});
+    dom.rainVideo.addEventListener('timeupdate',()=>{dom.progressBar.value=dom.rainVideo.currentTime;dom.currentTimeDisplay.textContent=formatTime(dom.rainVideo.currentTime)});
+    dom.rainVideo.addEventListener('ended',()=>{dom.playButtonOverlay.classList.remove('hidden');updatePlayPauseIcon()});
+    dom.progressBar.addEventListener('input',()=>{dom.rainVideo.currentTime=dom.progressBar.value});
+    dom.historyButton.addEventListener('click',()=>{const today=new Date().toISOString().split('T')[0];dom.historyDatePicker.value=today;updateHistoryView(today);dom.historyModal.classList.remove('hidden')});
+    dom.closeHistoryModalButton.addEventListener('click',()=>dom.historyModal.classList.add('hidden'));
+    dom.geminiAdviceButton.addEventListener('click',()=>{dom.geminiModal.classList.remove('hidden');fetchGeminiRecommendation()});
+    dom.closeGeminiModalButton.addEventListener('click',()=>dom.geminiModal.classList.add('hidden'));
+    dom.filterHistoryButton.addEventListener('click',()=>{const selectedDate=dom.historyDatePicker.value;if(selectedDate)updateHistoryView(selectedDate)});
     function updateRealtimeCharts(){const sortedHistory=[...historyData].sort((a,b)=>new Date(a.timestamp)-new Date(b.timestamp));const realtimeSlice=sortedHistory.slice(-MAX_REALTIME_POINTS);const labels=realtimeSlice.map(d=>new Date(d.timestamp).toLocaleTimeString('id-ID',{minute:'2-digit',second:'2-digit'}));function updateChart(chart,chartLabels,datasets){chart.data.labels=chartLabels;datasets.forEach((dataset,i)=>chart.data.datasets[i].data=dataset);chart.update('none')}updateChart(realtimeChart1,labels,[realtimeSlice.map(d=>d.temperature),realtimeSlice.map(d=>d.humidity)]);updateChart(realtimeChart2,labels,[realtimeSlice.map(d=>d.pressure),realtimeSlice.map(d=>d.altitude)])}
-    async function updateHistoryView(filterDateString){
-        let apiUrl = 'get_history_data.php';
-        if (filterDateString) { apiUrl += `?date=${filterDateString}`; }
-        let dataToShow = [];
-        try {
-            const response = await fetch(apiUrl);
-            if (!response.ok) { throw new Error(`HTTP error! status: ${response.status}`); }
-            const rawData = await response.json();
-            dataToShow = rawData.map(d => ({ ...d, timestamp: new Date(d.timestamp) }));
-        } catch (error) {
-            console.error("Gagal mengambil data riwayat:", error);
-            dom.historyTableBody.innerHTML = '<tr><td colspan="4" style="text-align:center;">Gagal memuat riwayat.</td></tr>';
-            return;
-        }
-        dataToShow.sort((a, b) => new Date(b.timestamp) - new Date(a.timestamp));
-        dom.historyTableBody.innerHTML = '';
-        if (dataToShow.length === 0) {
-            dom.historyTableBody.innerHTML = '<tr><td colspan="4" style="text-align:center;">Tidak ada data.</td></tr>';
-        } else {
-            dataToShow.forEach(data => {
-                const row = document.createElement('tr');
-                const timeFormat = { day: '2-digit', month: 'short', hour: '2-digit', minute: '2-digit' };
-                let conditionClass = '';
-                if (data.condition === 'CERAH') conditionClass = 'sunny';
-                else if (data.condition === 'HUJAN') conditionClass = 'rainy';
-                else if (data.condition === 'BERAWAN') conditionClass = 'cloudy';
-                row.innerHTML = `
-                    <td>${data.timestamp.toLocaleDateString('id-ID', timeFormat)}</td>
+    async function updateHistoryView(filterDateString){let apiUrl='get_history_data.php';if(filterDateString){apiUrl+=`?date=${filterDateString}`}let dataToShow=[];try{const response=await fetch(apiUrl);if(!response.ok){throw new Error(`HTTP error! status: ${response.status}`)}const rawData=await response.json();dataToShow=rawData.map(d=>({...d,timestamp:new Date(d.timestamp)}))}catch(error){console.error("Gagal mengambil data riwayat:",error);dom.historyTableBody.innerHTML='<tr><td colspan="4" style="text-align:center;">Gagal memuat riwayat.</td></tr>';return}dataToShow.sort((a,b)=>new Date(b.timestamp)-new Date(a.timestamp));dom.historyTableBody.innerHTML='';if(dataToShow.length===0){dom.historyTableBody.innerHTML='<tr><td colspan="4" style="text-align:center;">Tidak ada data.</td></tr>'}else{dataToShow.forEach(data=>{const row=document.createElement('tr');const timeFormat={day:'2-digit',month:'short',hour:'2-digit',minute:'2-digit'};let conditionClass='';if(data.condition==='CERAH')conditionClass='sunny';else if(data.condition==='HUJAN')conditionClass='rainy';else if(data.condition==='BERAWAN')conditionClass='cloudy';row.innerHTML=`
+                    <td>${data.timestamp.toLocaleDateString('id-ID',timeFormat)}</td>
                     <td class="condition-cell ${conditionClass}">${data.condition}</td>
                     <td>${data.temperature}</td>
                     <td>${data.humidity}</td>
-                `;
-                dom.historyTableBody.appendChild(row);
-            });
-        }
-        const sortedForChart = [...dataToShow].sort((a,b) => a.timestamp - b.timestamp);
-        const labels = sortedForChart.map(d => d.timestamp.toLocaleTimeString('id-ID', { hour: '2-digit', minute: '2-digit' }));
-        historyChart1.data.labels = labels;
-        historyChart1.data.datasets[0].data = sortedForChart.map(d => d.temperature);
-        historyChart1.data.datasets[1].data = sortedForChart.map(d => d.humidity);
-        historyChart2.data.labels = labels;
-        historyChart2.data.datasets[0].data = sortedForChart.map(d => d.pressure);
-        historyChart2.data.datasets[1].data = sortedForChart.map(d => d.altitude);
-        historyChart1.update();
-        historyChart2.update();
-    }
+                `;dom.historyTableBody.appendChild(row)})}const sortedForChart=[...dataToShow].sort((a,b)=>a.timestamp-b.timestamp);const labels=sortedForChart.map(d=>d.timestamp.toLocaleTimeString('id-ID',{hour:'2-digit',minute:'2-digit'}));historyChart1.data.labels=labels;historyChart1.data.datasets[0].data=sortedForChart.map(d=>d.temperature);historyChart1.data.datasets[1].data=sortedForChart.map(d=>d.humidity);historyChart2.data.labels=labels;historyChart2.data.datasets[0].data=sortedForChart.map(d=>d.pressure);historyChart2.data.datasets[1].data=sortedForChart.map(d=>d.altitude);historyChart1.update();historyChart2.update()}
 
+    // Memulai loop utama dan menjalankannya setiap 5 detik
     mainLoop();
     setInterval(mainLoop, 5000);
 });
+
+
+// =================================================
+// FUNGSI JAM REAL-TIME (WITA)
+// =================================================
+function updateRealtimeClock() {
+    // Ambil elemen HTML tempat jam akan ditampilkan
+    const clockElement = document.getElementById('realtime-clock');
+    if (!clockElement) return; // Hentikan jika elemen tidak ditemukan
+
+    // Buat objek tanggal baru dengan zona waktu WITA (Asia/Makassar)
+    const now = new Date();
+    const options = {
+        timeZone: 'Asia/Makassar',
+        hour: '2-digit',
+        minute: '2-digit',
+        second: '2-digit',
+        hour12: false // Gunakan format 24 jam
+    };
+
+    // Format waktu ke dalam string yang mudah dibaca
+    const timeString = new Intl.DateTimeFormat('id-ID', options).format(now);
+
+    // Tampilkan waktu di elemen HTML
+    clockElement.textContent = `Waktu Server (WITA): ${timeString}`;
+}
+
+// Panggil fungsi updateRealtimeClock setiap detik (1000 milidetik)
+setInterval(updateRealtimeClock, 1000);
