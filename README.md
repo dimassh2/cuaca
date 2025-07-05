@@ -2,8 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-![Tampilan Dasbor](https://raw.githubusercontent.com/dimassh2/cuaca/main/path/to/your/dashboard_screenshot.png) 
-*(Gantilah URL di atas dengan link ke gambar dasbor Anda setelah Anda mengunggahnya ke repositori)*
+![Tampilan Dasbor](https://raw.githubusercontent.com/dimassh2/cuaca/main/dashboard.png) 
 
 ## Deskripsi Proyek
 
